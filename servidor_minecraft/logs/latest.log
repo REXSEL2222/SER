@@ -1102,3 +1102,19 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [26Aug2025 21:08:33.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3951ms or 79 ticks behind
 [26Aug2025 21:08:51.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3442ms or 68 ticks behind
 [26Aug2025 21:09:10.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3757ms or 75 ticks behind
+[26Aug2025 21:09:37.038] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11810ms or 236 ticks behind
+[26Aug2025 21:09:54.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Aug2025 21:09:54.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Aug2025 21:09:54.256] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Server closed
+[26Aug2025 21:09:54.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
+[26Aug2025 21:09:54.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Aug2025 21:09:56.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26Aug2025 21:10:04.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26Aug2025 21:10:04.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26Aug2025 21:10:04.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26Aug2025 21:10:04.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Aug2025 21:10:04.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Aug2025 21:10:04.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[26Aug2025 21:10:05.034] [Server thread/INFO] [Framework/]: Unloading server configs...
+[26Aug2025 21:10:05.042] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[26Aug2025 21:10:05.050] [Server thread/INFO] [Framework/]: Finished unloading server configs
