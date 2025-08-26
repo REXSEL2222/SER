@@ -2320,3 +2320,32 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [26Aug2025 05:54:35.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev drowned whilst trying to escape Fire Dragon
 [26Aug2025 05:54:35.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Your First Grave]
 [26Aug2025 05:54:35.446] [Server thread/INFO] [tombstone/]: The player elikernomamahuev has successfully been saved
+[26Aug2025 05:54:48.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[26Aug2025 05:55:07.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3749ms or 74 ticks behind
+[26Aug2025 05:55:24.884] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2576ms or 51 ticks behind
+[26Aug2025 05:55:28.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev moved too quickly! -1.995576646545512,-1.756759288177264,9.752928443271799
+[26Aug2025 05:55:46.696] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6838ms or 136 ticks behind
+[26Aug2025 05:56:03.697] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[26Aug2025 05:56:04.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [Mine? Mine? Mine?]
+[26Aug2025 05:56:25.863] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7205ms or 144 ticks behind
+[26Aug2025 05:56:29.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported elikernomamahuev to Eduardo171]
+[26Aug2025 05:56:43.746] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2887ms or 57 ticks behind
+[26Aug2025 05:57:04.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to Eduardo171]
+[26Aug2025 05:57:20.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [The Parrots and the Bats]
+[26Aug2025 05:58:20.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Sweet Dreams]
+[26Aug2025 05:58:41.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [A Seedy Place]
+[26Aug2025 05:59:09.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Monster Hunter]
+[26Aug2025 06:00:10.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Sweet Dreams]
+[26Aug2025 06:00:22.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: The difficulty has been set to Hard]
+[26Aug2025 06:00:59.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported EMILIOSIFUENTES to Eduardo171]
+[26Aug2025 06:01:08.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Acquire Hardware]
+[26Aug2025 06:01:25.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [Alex's Mobs]
+[26Aug2025 06:01:33.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [A Seedy Place]
+[26Aug2025 06:01:33.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [Sweet Dreams]
+[26Aug2025 06:02:20.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [Acquire Hardware]
+[26Aug2025 06:02:52.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [Monster Hunter]
+[26Aug2025 06:04:05.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [Isn't It Iron Pick]
+[26Aug2025 06:04:09.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Created new objective [MUERTES]]
+[26Aug2025 06:04:16.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Mine? Mine? Mine?]
+[26Aug2025 06:04:17.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set display slot sidebar to show objective MUERTES]
+[26Aug2025 06:04:44.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [Begun, The Emu War Has]
