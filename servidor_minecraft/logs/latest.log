@@ -1001,3 +1001,22 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [26Aug2025 21:31:32.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2835ms or 56 ticks behind
 [26Aug2025 21:31:49.576] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2526ms or 50 ticks behind
 [26Aug2025 21:32:03.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[26Aug2025 21:32:35.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [A Seedy Place]
+[26Aug2025 21:32:38.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Cover Me with Diamonds]
+[26Aug2025 21:32:41.912] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[26Aug2025 21:32:58.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES was slain by Zombie
+[26Aug2025 21:32:58.079] [Server thread/INFO] [tombstone/]: The player EMILIOSIFUENTES has successfully been saved
+[26Aug2025 21:37:03.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Suit Up]
+[26Aug2025 21:39:23.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [Black or White]
+[26Aug2025 21:40:26.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel fell from a high place
+[26Aug2025 21:40:26.070] [Server thread/INFO] [tombstone/]: The player rexsel has successfully been saved
+[26Aug2025 21:40:27.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has reached the goal [A Small Cemetery]
+[26Aug2025 21:40:41.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [A Seedy Place]
+[26Aug2025 21:40:58.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has reached the goal [Strong or Careful]
+[26Aug2025 21:40:58.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 withered away
+[26Aug2025 21:40:58.689] [Server thread/INFO] [tombstone/]: The player Eduardo171 has successfully been saved
+[26Aug2025 21:43:47.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [Blade of the Samurai]
+[26Aug2025 21:43:57.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has reached the goal [A Small Cemetery]
+[26Aug2025 21:44:10.845] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/684, l='ServerLevel[world]', x=-435.63, y=64.00, z=539.78] died, message: 'Unemployed was slain by elikernomamahuev'
+[26Aug2025 21:44:10.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Neighborhood Brawl]
+[26Aug2025 21:45:13.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Mine? Mine? Mine?]
