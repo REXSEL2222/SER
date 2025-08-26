@@ -139,3 +139,8 @@
 [26Aug2025 03:30:13.410] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 50332 ms
 [26Aug2025 03:30:13.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (63.729s)! For help, type "help"
 [26Aug2025 03:30:13.499] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[26Aug2025 03:39:05.712] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@47e2fe89[id=<null>,name=zAbyssalArcangel,properties={},legacy=false] (/127.231.186.150:54093) lost connection: Disconnected
+[26Aug2025 03:39:21.600] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7ef39326[id=<null>,name=zAbyssalArcangel,properties={},legacy=false] (/127.231.186.150:55777) lost connection: Disconnected
+[26Aug2025 03:40:12.900] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1fe947d9[id=<null>,name=zAbyssalArcangel,properties={},legacy=false] (/127.231.186.150:33627) lost connection: Disconnected
+[26Aug2025 03:44:32.850] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3bb9c8a[id=<null>,name=zAbyssalArcangel,properties={},legacy=false] (/127.231.186.150:48893) lost connection: Disconnected
+[26Aug2025 03:44:36.100] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@61334578[id=<null>,name=zAbyssalArcangel,properties={},legacy=false] (/127.231.186.150:42471) lost connection: Disconnected
