@@ -41,6 +41,7 @@
       "minecraft:sparse_jungle": "2025-08-26 20:40:02 +0000",
       "minecraft:river": "2025-08-26 06:00:59 +0000",
       "minecraft:stony_shore": "2025-08-26 05:53:50 +0000",
+      "minecraft:dripstone_caves": "2025-08-26 20:56:42 +0000",
       "minecraft:forest": "2025-08-26 06:21:29 +0000",
       "minecraft:flower_forest": "2025-08-26 05:47:50 +0000",
       "minecraft:savanna": "2025-08-26 06:01:03 +0000",
@@ -1168,6 +1169,7 @@
     "criteria": {
       "cooked_beef": "2025-08-26 06:18:33 +0000",
       "beef": "2025-08-26 06:00:55 +0000",
+      "bread": "2025-08-26 21:01:00 +0000",
       "melon_slice": "2025-08-26 06:01:14 +0000"
     },
     "done": false
@@ -1944,6 +1946,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-08-26 06:21:56 +0000",
       "minecraft:spider": "2025-08-26 06:24:45 +0000",
+      "minecraft:creeper": "2025-08-26 20:57:37 +0000",
       "minecraft:zombie": "2025-08-26 06:02:52 +0000"
     },
     "done": false

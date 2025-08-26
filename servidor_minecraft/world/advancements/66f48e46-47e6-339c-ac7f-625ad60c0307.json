@@ -37,6 +37,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:savanna_plateau": "2025-08-26 21:00:30 +0000",
       "minecraft:beach": "2025-08-26 20:48:40 +0000",
       "minecraft:sparse_jungle": "2025-08-26 20:42:43 +0000",
       "minecraft:river": "2025-08-26 05:54:32 +0000",
@@ -3234,6 +3235,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2025-08-26 20:57:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2025-08-26 20:33:17 +0000"
@@ -3279,6 +3286,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-08-26 20:49:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-26 20:57:41 +0000"
     },
     "done": true
   },
@@ -3375,6 +3388,12 @@
   "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2025-08-26 20:38:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-26 20:57:41 +0000"
     },
     "done": true
   },

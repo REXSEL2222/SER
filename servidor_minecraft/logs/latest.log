@@ -1060,3 +1060,45 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [26Aug2025 20:58:20.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2466ms or 49 ticks behind
 [26Aug2025 20:58:25.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EMILIOSIFUENTES moved wrongly!
 [26Aug2025 20:58:44.443] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8965ms or 179 ticks behind
+[26Aug2025 20:59:09.043] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9615ms or 192 ticks behind
+[26Aug2025 20:59:29.513] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5485ms or 109 ticks behind
+[26Aug2025 20:59:47.958] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3480ms or 69 ticks behind
+[26Aug2025 20:59:59.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Take Aim, Chaps!]
+[26Aug2025 21:00:05.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2432ms or 48 ticks behind
+[26Aug2025 21:00:22.425] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2097ms or 41 ticks behind
+[26Aug2025 21:00:47.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9886ms or 197 ticks behind
+[26Aug2025 21:01:12.949] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10721ms or 214 ticks behind
+[26Aug2025 21:01:35.608] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7680ms or 153 ticks behind
+[26Aug2025 21:02:00.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10289ms or 205 ticks behind
+[26Aug2025 21:02:18.837] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[26Aug2025 21:02:37.232] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3404ms or 68 ticks behind
+[26Aug2025 21:03:03.014] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10786ms or 215 ticks behind
+[26Aug2025 21:03:20.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EMILIOSIFUENTES lost connection: Timed out
+[26Aug2025 21:03:20.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES left the game
+[26Aug2025 21:03:22.061] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4083ms or 81 ticks behind
+[26Aug2025 21:03:42.789] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EMILIOSIFUENTES[/127.187.194.5:59075] logged in with entity id 22832 at (-819.568330090992, 67.02442408821369, 977.7547918859963)
+[26Aug2025 21:03:42.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES joined the game
+[26Aug2025 21:03:42.818] [Server thread/INFO] [Jade/]: Syncing config to EMILIOSIFUENTES (718328ac-5ecb-3187-a56d-9301a7dd78ea)
+[26Aug2025 21:03:59.133] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[26Aug2025 21:04:10.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Take Aim]
+[26Aug2025 21:04:19.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4978ms or 99 ticks behind
+[26Aug2025 21:04:40.169] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6091ms or 121 ticks behind
+[26Aug2025 21:04:44.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was turned into KFC by Fire Dragon
+[26Aug2025 21:04:44.620] [Server thread/INFO] [tombstone/]: The player elikernomamahuev has successfully been saved
+[26Aug2025 21:05:01.295] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6167ms or 123 ticks behind
+[26Aug2025 21:05:20.779] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4501ms or 90 ticks behind
+[26Aug2025 21:05:41.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5307ms or 106 ticks behind
+[26Aug2025 21:06:06.898] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10820ms or 216 ticks behind
+[26Aug2025 21:06:25.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was turned into KFC by Fire Dragon
+[26Aug2025 21:06:25.415] [Server thread/INFO] [tombstone/]: The player elikernomamahuev has successfully been saved
+[26Aug2025 21:06:30.706] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8828ms or 176 ticks behind
+[26Aug2025 21:06:31.470] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/812, l='ServerLevel[world]', x=-436.54, y=71.00, z=639.84] died, message: 'Butcher went up in flames'
+[26Aug2025 21:06:57.134] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11456ms or 229 ticks behind
+[26Aug2025 21:07:16.826] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4699ms or 93 ticks behind
+[26Aug2025 21:07:35.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3932ms or 78 ticks behind
+[26Aug2025 21:07:49.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Dragonslayer]
+[26Aug2025 21:07:55.838] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5160ms or 103 ticks behind
+[26Aug2025 21:08:14.144] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3316ms or 66 ticks behind
+[26Aug2025 21:08:33.079] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3951ms or 79 ticks behind
+[26Aug2025 21:08:51.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3442ms or 68 ticks behind
+[26Aug2025 21:09:10.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3757ms or 75 ticks behind
