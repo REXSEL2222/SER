@@ -1003,3 +1003,34 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [26Aug2025 20:36:54.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Best Friends Forever]
 [26Aug2025 20:37:11.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES hit the ground too hard
 [26Aug2025 20:37:11.555] [Server thread/INFO] [tombstone/]: The player EMILIOSIFUENTES has successfully been saved
+[26Aug2025 20:38:12.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[26Aug2025 20:38:36.449] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Disconnected
+[26Aug2025 20:38:36.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
+[26Aug2025 20:38:37.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10281ms or 205 ticks behind
+[26Aug2025 20:38:47.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has reached the goal [Flowers of the Savanna]
+[26Aug2025 20:38:53.755] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.114.254.74:35609] logged in with entity id 4423 at (-393.05934371426633, -26.0, 378.188628160905)
+[26Aug2025 20:38:53.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
+[26Aug2025 20:38:53.852] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
+[26Aug2025 20:40:22.908] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[26Aug2025 20:41:19.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES was slain by Lightning Dragon
+[26Aug2025 20:41:19.991] [Server thread/INFO] [tombstone/]: The player EMILIOSIFUENTES has successfully been saved
+[26Aug2025 20:43:09.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[26Aug2025 20:43:17.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Who You Gonna Call?]
+[26Aug2025 20:43:30.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[26Aug2025 20:43:49.389] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4061ms or 81 ticks behind
+[26Aug2025 20:44:06.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2602ms or 52 ticks behind
+[26Aug2025 20:44:23.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [What a Deal!]
+[26Aug2025 20:44:27.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5353ms or 107 ticks behind
+[26Aug2025 20:44:52.727] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10399ms or 207 ticks behind
+[26Aug2025 20:45:10.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2185ms or 43 ticks behind
+[26Aug2025 20:45:15.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [A Strange Grave Dust]
+[26Aug2025 20:45:32.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2121ms or 42 ticks behind
+[26Aug2025 20:46:49.583] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[26Aug2025 20:47:09.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4966ms or 99 ticks behind
+[26Aug2025 20:47:26.849] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2321ms or 46 ticks behind
+[26Aug2025 20:47:36.453] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-761, y=60, z=188} BlockPos{x=-761, y=61, z=187}
+[26Aug2025 20:47:42.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [Book of Monsters]
+[26Aug2025 20:47:59.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Funeral Theft]
+[26Aug2025 20:48:05.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was incinerated by Fire Dragon
+[26Aug2025 20:48:05.062] [Server thread/INFO] [tombstone/]: The player elikernomamahuev has successfully been saved
+[26Aug2025 20:48:26.683] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
