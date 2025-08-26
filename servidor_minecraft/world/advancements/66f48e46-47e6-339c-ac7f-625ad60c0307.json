@@ -2097,7 +2097,10 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "wheat": "2025-08-26 05:58:41 +0000"
+      "tomato": "2025-08-26 21:58:51 +0000",
+      "rice": "2025-08-26 22:00:06 +0000",
+      "wheat": "2025-08-26 05:58:41 +0000",
+      "melon": "2025-08-26 21:58:58 +0000"
     },
     "done": false
   },
@@ -4003,6 +4006,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-26 21:57:58 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragon_bone_block": {
     "criteria": {
       "has_dragonbone": "2025-08-26 21:30:19 +0000"
@@ -4039,6 +4048,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2025-08-26 22:00:06 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_shovel": {
     "criteria": {
       "has_item": "2025-08-26 21:30:19 +0000"
@@ -4048,6 +4063,12 @@
   "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-08-26 21:35:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-26 21:57:58 +0000"
     },
     "done": true
   },
@@ -4087,6 +4108,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-08-26 21:56:23 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/silver_shovel": {
     "criteria": {
       "has_the_recipe": "2025-08-26 21:43:04 +0000"
@@ -4102,6 +4129,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-08-26 21:30:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-08-26 21:57:58 +0000"
     },
     "done": true
   },

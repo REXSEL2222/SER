@@ -37,6 +37,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2025-08-26 21:51:33 +0000",
       "minecraft:sparse_jungle": "2025-08-26 06:25:33 +0000",
       "minecraft:river": "2025-08-26 05:52:46 +0000",
       "minecraft:stony_shore": "2025-08-26 05:46:54 +0000",
@@ -44,6 +45,7 @@
       "minecraft:jungle": "2025-08-26 06:43:44 +0000",
       "minecraft:ocean": "2025-08-26 21:45:44 +0000",
       "minecraft:flower_forest": "2025-08-26 05:41:55 +0000",
+      "minecraft:meadow": "2025-08-26 21:57:48 +0000",
       "minecraft:savanna": "2025-08-26 05:57:21 +0000",
       "minecraft:plains": "2025-08-26 05:43:18 +0000"
     },
@@ -379,7 +381,8 @@
       "minecraft:spider": "2025-08-26 06:21:06 +0000",
       "minecraft:creeper": "2025-08-26 05:59:26 +0000",
       "minecraft:enderman": "2025-08-26 06:50:37 +0000",
-      "minecraft:zombie": "2025-08-26 05:44:59 +0000"
+      "minecraft:zombie": "2025-08-26 05:44:59 +0000",
+      "minecraft:drowned": "2025-08-26 21:54:08 +0000"
     },
     "done": false
   },
@@ -4277,6 +4280,12 @@
   "farmersdelight:recipes/food/melon_popsicle": {
     "criteria": {
       "has_melon": "2025-08-26 21:40:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-08-26 21:58:46 +0000"
     },
     "done": true
   },

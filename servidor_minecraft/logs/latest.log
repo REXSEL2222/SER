@@ -1020,3 +1020,41 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [26Aug2025 21:44:10.845] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/684, l='ServerLevel[world]', x=-435.63, y=64.00, z=539.78] died, message: 'Unemployed was slain by elikernomamahuev'
 [26Aug2025 21:44:10.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Neighborhood Brawl]
 [26Aug2025 21:45:13.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Mine? Mine? Mine?]
+[26Aug2025 21:53:00.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[26Aug2025 21:53:13.374] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EMILIOSIFUENTES lost connection: Timed out
+[26Aug2025 21:53:13.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES left the game
+[26Aug2025 21:53:13.602] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Aug2025 21:53:23.534] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7684ms or 153 ticks behind
+[26Aug2025 21:53:31.529] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EMILIOSIFUENTES[/127.187.194.5:47393] logged in with entity id 19944 at (-415.69999998807907, 26.0, 565.2646387972156)
+[26Aug2025 21:53:31.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES joined the game
+[26Aug2025 21:53:31.556] [Server thread/INFO] [Jade/]: Syncing config to EMILIOSIFUENTES (718328ac-5ecb-3187-a56d-9301a7dd78ea)
+[26Aug2025 21:55:13.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [Suit Up]
+[26Aug2025 21:56:18.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES was shot by Skeleton
+[26Aug2025 21:56:18.746] [Server thread/INFO] [tombstone/]: The player EMILIOSIFUENTES has successfully been saved
+[26Aug2025 21:56:20.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [The Most Useful Key]
+[26Aug2025 21:56:23.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has reached the goal [Flowers of the Savanna]
+[26Aug2025 21:57:18.244] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Disconnected
+[26Aug2025 21:57:18.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
+[26Aug2025 22:00:05.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has reached the goal [A Fast Comeback]
+[26Aug2025 22:00:08.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev burned to death
+[26Aug2025 22:00:08.797] [Server thread/INFO] [tombstone/]: The player elikernomamahuev has successfully been saved
+[26Aug2025 22:00:43.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was turned into KFC by Fire Dragon
+[26Aug2025 22:00:43.938] [Server thread/INFO] [tombstone/]: The player elikernomamahuev has successfully been saved
+[26Aug2025 22:01:43.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was incinerated by Fire Dragon
+[26Aug2025 22:01:43.097] [Server thread/INFO] [tombstone/]: The player elikernomamahuev has successfully been saved
+[26Aug2025 22:03:07.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[26Aug2025 22:03:07.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Aug2025 22:03:07.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Aug2025 22:03:07.633] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EMILIOSIFUENTES lost connection: Server closed
+[26Aug2025 22:03:07.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES left the game
+[26Aug2025 22:03:07.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Aug2025 22:03:09.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26Aug2025 22:03:25.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26Aug2025 22:03:25.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26Aug2025 22:03:25.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26Aug2025 22:03:25.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Aug2025 22:03:25.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Aug2025 22:03:25.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[26Aug2025 22:03:26.080] [Server thread/INFO] [Framework/]: Unloading server configs...
+[26Aug2025 22:03:26.086] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[26Aug2025 22:03:26.095] [Server thread/INFO] [Framework/]: Finished unloading server configs
