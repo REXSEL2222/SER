@@ -2676,12 +2676,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-26 06:20:02 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/diamond_katana": {
     "criteria": {
       "has_diamond": "2025-08-26 06:16:47 +0000"
@@ -2706,12 +2700,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-08-26 06:28:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-08-26 06:16:47 +0000"
@@ -2730,18 +2718,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_torch": {
-    "criteria": {
-      "has_redstone": "2025-08-26 06:26:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-08-26 06:28:19 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/diamond_tomahawk": {
     "criteria": {
       "has_diamond": "2025-08-26 06:16:47 +0000"
@@ -2751,12 +2727,6 @@
   "spartanweaponry:recipes/diamond_warhammer": {
     "criteria": {
       "has_diamond": "2025-08-26 06:16:47 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "rice": "2025-08-26 06:20:02 +0000"
     },
     "done": true
   },
@@ -2784,12 +2754,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/username_logger": {
-    "criteria": {
-      "has_redstone": "2025-08-26 06:26:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-08-26 06:16:47 +0000"
@@ -2802,51 +2766,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-26 06:20:02 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/diamond_flanged_mace": {
     "criteria": {
       "has_diamond": "2025-08-26 06:16:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/compass": {
-    "criteria": {
-      "has_redstone": "2025-08-26 06:26:39 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/portable_tune_player": {
-    "criteria": {
-      "has_redstone": "2025-08-26 06:26:39 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/diamond_pike": {
     "criteria": {
       "has_diamond": "2025-08-26 06:16:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-08-26 06:28:19 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roasted_mutton_chops": {
-    "criteria": {
-      "has_mutton": "2025-08-26 06:23:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2025-08-26 06:28:19 +0000"
     },
     "done": true
   },
@@ -2859,12 +2787,6 @@
   "spartanweaponry:recipes/diamond_longbow": {
     "criteria": {
       "has_diamond": "2025-08-26 06:16:47 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/portable_radar": {
-    "criteria": {
-      "has_redstone": "2025-08-26 06:26:39 +0000"
     },
     "done": true
   },
@@ -2892,24 +2814,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/tools/taser": {
-    "criteria": {
-      "has_redstone": "2025-08-26 06:26:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_redstone": "2025-08-26 06:26:39 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/shepherds_pie_block": {
-    "criteria": {
-      "has_cooked_mutton": "2025-08-26 06:23:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-08-26 06:16:47 +0000"
@@ -2928,12 +2832,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_dropper": {
-    "criteria": {
-      "has_redstone": "2025-08-26 06:26:39 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/diamond_dagger": {
     "criteria": {
       "has_diamond": "2025-08-26 06:16:47 +0000"
@@ -2943,12 +2841,6 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-08-26 06:16:47 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2025-08-26 06:19:45 +0000"
     },
     "done": true
   },
@@ -2964,12 +2856,6 @@
     },
     "done": true
   },
-  "spartanshields:recipes/lapis_lazuli_basic_shield": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-08-26 06:28:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-08-26 06:16:47 +0000"
@@ -2982,30 +2868,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-08-26 06:28:10 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/universal_key_changer": {
-    "criteria": {
-      "has_redstone": "2025-08-26 06:26:39 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/alarm": {
-    "criteria": {
-      "has_redstone": "2025-08-26 06:26:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/clock": {
-    "criteria": {
-      "has_redstone": "2025-08-26 06:26:39 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/diamond_saber": {
     "criteria": {
       "has_diamond": "2025-08-26 06:16:47 +0000"
@@ -3015,24 +2877,6 @@
   "spartanweaponry:recipes/large_quiver_brace": {
     "criteria": {
       "has_diamond": "2025-08-26 06:16:47 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
-    "criteria": {
-      "has_redstone": "2025-08-26 06:26:39 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
-    "criteria": {
-      "has_redstone": "2025-08-26 06:26:39 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
-    "criteria": {
-      "has_redstone": "2025-08-26 06:26:39 +0000"
     },
     "done": true
   },
@@ -3054,15 +2898,51 @@
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_piston": {
+  "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
-      "has_redstone": "2025-08-26 06:26:39 +0000"
+      "has_diamond": "2025-08-26 06:16:47 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/note_block": {
+  "spartanweaponry:recipes/diamond_heavy_crossbow": {
     "criteria": {
-      "has_redstone": "2025-08-26 06:26:39 +0000"
+      "has_diamond": "2025-08-26 06:16:47 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_rapier": {
+    "criteria": {
+      "has_diamond": "2025-08-26 06:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-08-26 06:16:47 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-08-26 06:19:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-26 06:20:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-08-26 06:20:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-26 06:20:02 +0000"
     },
     "done": true
   },
@@ -3078,21 +2958,129 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_boots": {
+  "farmersdelight:recipes/building_blocks/rice_bag": {
     "criteria": {
-      "has_diamond": "2025-08-26 06:16:47 +0000"
+      "has_rice": "2025-08-26 06:20:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-08-26 06:23:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-08-26 06:23:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-08-26 06:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-08-26 06:26:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-08-26 06:26:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-08-26 06:26:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-08-26 06:26:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2025-08-26 06:26:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2025-08-26 06:26:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-08-26 06:26:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2025-08-26 06:26:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2025-08-26 06:26:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2025-08-26 06:26:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-08-26 06:26:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2025-08-26 06:26:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2025-08-26 06:26:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2025-08-26 06:26:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2025-08-26 06:26:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-08-26 06:26:39 +0000"
     },
     "done": true
   },
   "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
     "criteria": {
       "has_redstone": "2025-08-26 06:26:39 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/diamond_heavy_crossbow": {
-    "criteria": {
-      "has_diamond": "2025-08-26 06:16:47 +0000"
     },
     "done": true
   },
@@ -3120,33 +3108,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/rice_bag": {
-    "criteria": {
-      "has_rice": "2025-08-26 06:20:02 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/diamond_rapier": {
-    "criteria": {
-      "has_diamond": "2025-08-26 06:16:47 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/mutton_wrap": {
-    "criteria": {
-      "has_mutton": "2025-08-26 06:23:51 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/tools/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2025-08-26 06:26:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_axe": {
-    "criteria": {
-      "has_diamond": "2025-08-26 06:16:47 +0000"
     },
     "done": true
   },
@@ -3159,6 +3123,42 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-08-26 06:26:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-26 06:28:10 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/lapis_lazuli_basic_shield": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-26 06:28:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-08-26 06:28:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-26 06:28:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-26 06:28:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-08-26 06:28:19 +0000"
     },
     "done": true
   },
