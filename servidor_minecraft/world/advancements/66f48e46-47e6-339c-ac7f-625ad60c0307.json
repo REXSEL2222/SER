@@ -3162,5 +3162,11 @@
     },
     "done": true
   },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-08-26 07:01:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
