@@ -2281,3 +2281,42 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [26Aug2025 05:43:06.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Alex's Mobs]
 [26Aug2025 05:43:09.905] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=124, y=66, z=538}
 [26Aug2025 05:44:23.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Alex's Mobs]
+[26Aug2025 05:44:59.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Monster Hunter]
+[26Aug2025 05:45:00.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [A Strange Grave Dust]
+[26Aug2025 05:45:11.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Alex's Mobs]
+[26Aug2025 05:46:08.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Stone Age]
+[26Aug2025 05:46:54.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Crops of the Wild]
+[26Aug2025 05:47:43.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Stone Age]
+[26Aug2025 05:47:49.233] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EMILIOSIFUENTES[/127.187.194.5:39335] logged in with entity id 4662 at (117.5, 63.0, 530.5)
+[26Aug2025 05:47:49.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES joined the game
+[26Aug2025 05:47:49.288] [Server thread/INFO] [Jade/]: Syncing config to EMILIOSIFUENTES (718328ac-5ecb-3187-a56d-9301a7dd78ea)
+[26Aug2025 05:47:49.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [Ice and Fire]
+[26Aug2025 05:48:07.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Getting an Upgrade]
+[26Aug2025 05:48:14.545] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=124, y=66, z=538}
+[26Aug2025 05:48:17.996] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=124, y=67, z=538}
+[26Aug2025 05:48:38.875] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=122, y=67, z=537}
+[26Aug2025 05:48:38.956] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=123, y=66, z=536}
+[26Aug2025 05:48:42.300] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=125, y=67, z=537}
+[26Aug2025 05:48:43.501] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=124, y=66, z=538}
+[26Aug2025 05:48:43.543] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=124, y=67, z=537}
+[26Aug2025 05:48:44.198] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=124, y=67, z=537}
+[26Aug2025 05:48:44.843] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=124, y=67, z=537}
+[26Aug2025 05:48:44.941] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=123, y=67, z=537}
+[26Aug2025 05:48:45.044] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=123, y=66, z=536}
+[26Aug2025 05:48:45.102] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=122, y=66, z=536}
+[26Aug2025 05:48:50.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Crops of the Wild]
+[26Aug2025 05:49:33.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Getting an Upgrade]
+[26Aug2025 05:50:02.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Acquire Hardware]
+[26Aug2025 05:50:04.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [Stone Age]
+[26Aug2025 05:50:19.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel fell from a high place
+[26Aug2025 05:50:19.053] [Server thread/INFO] [tombstone/]: The player rexsel has successfully been saved
+[26Aug2025 05:50:24.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Knowledge of Death]
+[26Aug2025 05:50:24.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has reached the goal [Here They Come]
+[26Aug2025 05:50:29.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [Getting an Upgrade]
+[26Aug2025 05:53:08.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[26Aug2025 05:53:30.286] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[26Aug2025 05:53:47.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2154ms or 43 ticks behind
+[26Aug2025 05:54:08.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[26Aug2025 05:54:35.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev drowned whilst trying to escape Fire Dragon
+[26Aug2025 05:54:35.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Your First Grave]
+[26Aug2025 05:54:35.446] [Server thread/INFO] [tombstone/]: The player elikernomamahuev has successfully been saved
