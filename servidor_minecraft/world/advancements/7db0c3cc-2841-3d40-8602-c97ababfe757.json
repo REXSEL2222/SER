@@ -1481,7 +1481,8 @@
       "minecraft:skeleton": "2025-08-26 06:19:02 +0000",
       "minecraft:spider": "2025-08-26 20:36:16 +0000",
       "minecraft:creeper": "2025-08-26 05:59:09 +0000",
-      "minecraft:zombie": "2025-08-26 05:59:15 +0000"
+      "minecraft:zombie": "2025-08-26 05:59:15 +0000",
+      "minecraft:zombie_villager": "2025-08-26 20:50:31 +0000"
     },
     "done": false
   },
@@ -2991,9 +2992,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-08-26 20:53:46 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2025-08-26 20:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-08-26 20:48:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-08-26 20:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-26 20:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-08-26 20:48:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-08-26 20:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-26 20:53:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2025-08-26 20:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-08-26 20:53:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2025-08-26 20:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-08-26 20:48:14 +0000"
     },
     "done": true
   },
@@ -3003,9 +3070,165 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-26 20:53:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2025-08-26 20:48:14 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-08-26 20:54:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2025-08-26 20:48:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2025-08-26 20:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-08-26 20:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-08-26 20:48:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2025-08-26 20:48:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2025-08-26 20:48:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2025-08-26 20:48:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2025-08-26 20:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-08-26 20:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-08-26 20:48:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2025-08-26 20:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-26 20:46:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2025-08-26 20:48:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2025-08-26 20:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-26 20:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-08-26 20:48:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2025-08-26 20:48:14 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-08-26 20:42:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-26 20:53:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2025-08-26 20:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-08-26 20:53:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-08-26 20:53:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2025-08-26 20:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-08-26 20:48:14 +0000"
     },
     "done": true
   },

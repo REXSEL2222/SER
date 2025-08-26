@@ -3469,6 +3469,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/fire_stew": {
+    "criteria": {
+      "has_item": "2025-08-26 20:45:43 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/netherite_arrow": {
     "criteria": {
       "has_bow": "2025-08-26 20:42:51 +0000"
@@ -3508,6 +3514,12 @@
   "farmersdelight:recipes/decorations/safety_net": {
     "criteria": {
       "has_rope": "2025-08-26 20:32:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-08-26 20:53:35 +0000"
     },
     "done": true
   },
