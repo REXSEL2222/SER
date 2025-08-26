@@ -3773,3 +3773,74 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [26Aug2025 06:23:35.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
 [26Aug2025 06:25:25.920] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2411ms or 48 ticks behind
 [26Aug2025 06:25:47.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6866ms or 137 ticks behind
+[26Aug2025 06:26:04.589] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.114.254.74:45977] logged in with entity id 27159 at (-402.5877596360047, 4.0, 422.08330526010775)
+[26Aug2025 06:26:04.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
+[26Aug2025 06:26:04.731] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
+[26Aug2025 06:26:10.207] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7449ms or 148 ticks behind
+[26Aug2025 06:26:27.327] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2169ms or 43 ticks behind
+[26Aug2025 06:27:05.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EMILIOSIFUENTES> si yo ando en la aldea
+[26Aug2025 06:27:19.464] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[26Aug2025 06:27:37.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2977ms or 59 ticks behind
+[26Aug2025 06:27:45.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES burned to death
+[26Aug2025 06:27:45.968] [Server thread/INFO] [tombstone/]: The player EMILIOSIFUENTES has successfully been saved
+[26Aug2025 06:28:14.711] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[26Aug2025 06:28:32.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[26Aug2025 06:28:50.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2973ms or 59 ticks behind
+[26Aug2025 06:29:05.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Timed out
+[26Aug2025 06:29:05.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[26Aug2025 06:29:53.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported Eduardo171 to EMILIOSIFUENTES]
+[26Aug2025 06:30:01.579] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@38dfe749[id=<null>,name=elikernomamahuev,properties={},legacy=false] (/127.21.34.197:49907): Took too long to log in
+[26Aug2025 06:30:01.580] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@38dfe749[id=<null>,name=elikernomamahuev,properties={},legacy=false] (/127.21.34.197:49907) lost connection: Took too long to log in
+[26Aug2025 06:30:01.631] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Aug2025 06:30:04.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EMILIOSIFUENTES was kicked for floating too long!
+[26Aug2025 06:30:04.632] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EMILIOSIFUENTES lost connection: Flying is not enabled on this server
+[26Aug2025 06:30:04.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES left the game
+[26Aug2025 06:30:19.167] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Timed out
+[26Aug2025 06:30:19.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
+[26Aug2025 06:30:20.074] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Timed out
+[26Aug2025 06:30:20.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
+[26Aug2025 06:30:20.135] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Aug2025 06:30:24.831] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.21.34.197:52303] logged in with entity id 29330 at (-741.2278253015605, 113.0, 939.5614510557614)
+[26Aug2025 06:30:24.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[26Aug2025 06:30:24.875] [Server thread/INFO] [Jade/]: Syncing config to elikernomamahuev (7e25e690-4f60-3c78-b7bc-fb82071b91d5)
+[26Aug2025 06:30:36.988] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@76681e34[id=<null>,name=rexsel,properties={},legacy=false] (/127.204.20.180:36917) lost connection: Disconnected
+[26Aug2025 06:30:38.663] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.114.254.74:48717] logged in with entity id 29584 at (-560.9406357056018, 73.24918707874468, 660.8514966137902)
+[26Aug2025 06:30:38.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
+[26Aug2025 06:30:38.711] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
+[26Aug2025 06:30:55.022] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@fa4c9b6[id=<null>,name=EMILIOSIFUENTES,properties={},legacy=false] (/127.187.194.5:40993): Took too long to log in
+[26Aug2025 06:30:55.023] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@fa4c9b6[id=<null>,name=EMILIOSIFUENTES,properties={},legacy=false] (/127.187.194.5:40993) lost connection: Took too long to log in
+[26Aug2025 06:30:55.097] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Aug2025 06:30:56.902] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6786da7e[id=<null>,name=rexsel,properties={},legacy=false] (/127.204.20.180:55281) lost connection: Disconnected
+[26Aug2025 06:32:10.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[26Aug2025 06:32:22.448] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3635511[id=<null>,name=EMILIOSIFUENTES,properties={},legacy=false] (/127.187.194.5:55591) lost connection: Disconnected
+[26Aug2025 06:32:36.167] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[26Aug2025 06:32:56.892] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4484f290[id=<null>,name=EMILIOSIFUENTES,properties={},legacy=false] (/127.187.194.5:58393) lost connection: Disconnected
+[26Aug2025 06:32:59.362] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8204ms or 164 ticks behind
+[26Aug2025 06:33:18.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4562ms or 91 ticks behind
+[26Aug2025 06:33:44.526] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[26Aug2025 06:34:10.447] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7a2fb28d[id=<null>,name=EMILIOSIFUENTES,properties={},legacy=false] (/127.187.194.5:50163): Took too long to log in
+[26Aug2025 06:34:10.449] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7a2fb28d[id=<null>,name=EMILIOSIFUENTES,properties={},legacy=false] (/127.187.194.5:50163) lost connection: Took too long to log in
+[26Aug2025 06:34:10.534] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Aug2025 06:34:20.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 was slain by Komodo Dragon
+[26Aug2025 06:34:20.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Your First Grave]
+[26Aug2025 06:34:20.245] [Server thread/INFO] [tombstone/]: The player Eduardo171 has successfully been saved
+[26Aug2025 06:34:42.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[26Aug2025 06:34:52.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has reached the goal [Here They Come]
+[26Aug2025 06:34:56.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to elikernomamahuev: backup
+[26Aug2025 06:34:56.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Eduardo171: backup
+[26Aug2025 06:34:59.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[26Aug2025 06:34:59.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Aug2025 06:34:59.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Aug2025 06:34:59.100] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Server closed
+[26Aug2025 06:34:59.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[26Aug2025 06:34:59.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Aug2025 06:35:00.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[26Aug2025 06:35:01.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[26Aug2025 06:35:01.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[26Aug2025 06:35:01.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[26Aug2025 06:35:01.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[26Aug2025 06:35:01.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[26Aug2025 06:35:01.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[26Aug2025 06:35:01.935] [Server thread/INFO] [Framework/]: Unloading server configs...
+[26Aug2025 06:35:01.949] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[26Aug2025 06:35:01.953] [Server thread/INFO] [Framework/]: Finished unloading server configs
