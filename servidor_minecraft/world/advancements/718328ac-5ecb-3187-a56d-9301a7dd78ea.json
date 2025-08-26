@@ -2695,5 +2695,17 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_pickaxe": {
+    "criteria": {
+      "has_the_recipe": "2025-08-26 21:28:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_metal_chestplate": {
+    "criteria": {
+      "has_the_recipe": "2025-08-26 21:25:43 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
