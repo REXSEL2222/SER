@@ -1000,3 +1000,55 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [27Aug2025 04:58:50.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel moved too quickly! 6.646927244090421,-0.023088109101550458,7.909527512839588
 [27Aug2025 04:59:13.439] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22282ms or 445 ticks behind
 [27Aug2025 04:59:43.484] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15076ms or 301 ticks behind
+[27Aug2025 05:00:21.324] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22867ms or 457 ticks behind
+[27Aug2025 05:00:39.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> el juan
+[27Aug2025 05:00:44.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> sabe
+[27Aug2025 05:00:53.820] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17512ms or 350 ticks behind
+[27Aug2025 05:01:21.613] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12806ms or 256 ticks behind
+[27Aug2025 05:01:49.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13385ms or 267 ticks behind
+[27Aug2025 05:02:19.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14804ms or 296 ticks behind
+[27Aug2025 05:02:47.612] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12855ms or 257 ticks behind
+[27Aug2025 05:03:15.391] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12783ms or 255 ticks behind
+[27Aug2025 05:03:43.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12857ms or 257 ticks behind
+[27Aug2025 05:04:09.253] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11045ms or 220 ticks behind
+[27Aug2025 05:04:28.961] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4753ms or 95 ticks behind
+[27Aug2025 05:04:51.164] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7207ms or 144 ticks behind
+[27Aug2025 05:04:58.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [Who You Gonna Call?]
+[27Aug2025 05:05:10.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4309ms or 86 ticks behind
+[27Aug2025 05:05:28.763] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3306ms or 66 ticks behind
+[27Aug2025 05:05:47.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4177ms or 83 ticks behind
+[27Aug2025 05:06:06.562] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3655ms or 73 ticks behind
+[27Aug2025 05:06:19.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has reached the goal [Strong or Careful]
+[27Aug2025 05:06:19.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel was turned into KFC by Fire Dragon
+[27Aug2025 05:06:20.053] [Server thread/INFO] [tombstone/]: The player rexsel has successfully been saved
+[27Aug2025 05:06:59.001] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2343ms or 46 ticks behind
+[27Aug2025 05:07:11.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Dragonslayer]
+[27Aug2025 05:07:18.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4818ms or 96 ticks behind
+[27Aug2025 05:07:38.716] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[27Aug2025 05:08:10.020] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[27Aug2025 05:08:25.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to elikernomamahuev]
+[27Aug2025 05:08:28.070] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3063ms or 61 ticks behind
+[27Aug2025 05:08:40.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> en la nieve
+[27Aug2025 05:09:02.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> aguas con un dragon de fuego
+[27Aug2025 05:09:22.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [We Need to Go Deeper]
+[27Aug2025 05:09:25.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to Eduardo171]
+[27Aug2025 05:09:25.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3640ms or 72 ticks behind
+[27Aug2025 05:09:46.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6260ms or 125 ticks behind
+[27Aug2025 05:10:56.112] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[27Aug2025 05:12:08.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has reached the goal [Bone Crusher]
+[27Aug2025 05:13:54.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Dragon Growth Hormone]
+[27Aug2025 05:14:43.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was burnt to a crisp whilst fighting Fire Dragon
+[27Aug2025 05:14:43.792] [Server thread/INFO] [tombstone/]: The player elikernomamahuev has successfully been saved
+[27Aug2025 05:15:19.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [Hidden in the Depths]
+[27Aug2025 05:16:03.838] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[27Aug2025 05:16:15.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev burned to death
+[27Aug2025 05:16:15.129] [Server thread/INFO] [tombstone/]: The player elikernomamahuev has successfully been saved
+[27Aug2025 05:16:37.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev was incinerated by Fire Dragon
+[27Aug2025 05:16:37.855] [Server thread/INFO] [tombstone/]: The player elikernomamahuev has successfully been saved
+[27Aug2025 05:16:42.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> que asco de lag
+[27Aug2025 05:17:07.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Mutual Aid]
+[27Aug2025 05:18:36.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Who You Gonna Call?]
+[27Aug2025 05:19:13.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Ice Bucket Challenge]
+[27Aug2025 05:19:27.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EMILIOSIFUENTES> rexel mira mi comentario en el dc chat
+[27Aug2025 05:19:58.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EMILIOSIFUENTES> re envidioso
+[27Aug2025 05:20:20.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EMILIOSIFUENTES> salieron mis demonios internos cuando me dejaron solito
