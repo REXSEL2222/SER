@@ -44,6 +44,7 @@
       "minecraft:lukewarm_ocean": "2025-08-26 20:46:46 +0000",
       "minecraft:stony_shore": "2025-08-26 20:49:11 +0000",
       "minecraft:forest": "2025-08-26 05:52:33 +0000",
+      "minecraft:windswept_savanna": "2025-08-27 04:56:19 +0000",
       "minecraft:flower_forest": "2025-08-26 05:36:57 +0000",
       "minecraft:savanna": "2025-08-26 05:57:05 +0000",
       "minecraft:plains": "2025-08-26 05:38:03 +0000"
@@ -4340,6 +4341,30 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-08-27 04:23:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-08-27 04:58:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-08-27 04:54:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-08-27 04:54:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-08-27 04:58:14 +0000"
     },
     "done": true
   },
