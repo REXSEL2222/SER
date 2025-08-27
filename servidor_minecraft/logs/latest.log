@@ -1052,3 +1052,23 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [27Aug2025 05:19:27.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EMILIOSIFUENTES> rexel mira mi comentario en el dc chat
 [27Aug2025 05:19:58.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EMILIOSIFUENTES> re envidioso
 [27Aug2025 05:20:20.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EMILIOSIFUENTES> salieron mis demonios internos cuando me dejaron solito
+[27Aug2025 05:21:05.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[27Aug2025 05:21:13.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev moved too quickly! 9.759031740812588,1.2491870787446828,2.000836265197222
+[27Aug2025 05:21:27.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6283ms or 125 ticks behind
+[27Aug2025 05:21:30.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Aug2025 05:21:30.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Aug2025 05:21:30.869] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EMILIOSIFUENTES lost connection: Server closed
+[27Aug2025 05:21:30.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES left the game
+[27Aug2025 05:21:30.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Server closed
+[27Aug2025 05:21:30.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
+[27Aug2025 05:21:30.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Aug2025 05:21:34.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27Aug2025 05:21:47.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[27Aug2025 05:21:47.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[27Aug2025 05:21:48.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Aug2025 05:21:48.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Aug2025 05:21:48.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Aug2025 05:21:48.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[27Aug2025 05:21:49.075] [Server thread/INFO] [Framework/]: Unloading server configs...
+[27Aug2025 05:21:49.132] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[27Aug2025 05:21:49.143] [Server thread/INFO] [Framework/]: Finished unloading server configs
