@@ -2072,3 +2072,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [28Aug2025 06:46:09.268] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/8776, l='ServerLevel[world]', x=-1062.55, y=101.00, z=173.41] died, message: 'Weaponsmith was slain by Zombie'
 [28Aug2025 06:46:45.180] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Disconnected
 [28Aug2025 06:46:45.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
+[28Aug2025 06:50:13.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[28Aug2025 06:50:34.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5381ms or 107 ticks behind
+[28Aug2025 06:52:32.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [Crafting a New Look]
+[28Aug2025 06:55:31.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel moved too quickly! 1.3655986015253347,6.749132638858413,-7.344599219118265
+[28Aug2025 06:55:31.334] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3543ms or 70 ticks behind
+[28Aug2025 07:00:31.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
