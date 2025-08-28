@@ -2109,6 +2109,7 @@
       "rice": "2025-08-26 22:00:06 +0000",
       "sugar_cane": "2025-08-27 05:10:08 +0000",
       "potato": "2025-08-27 04:28:29 +0000",
+      "nether_wart": "2025-08-28 07:48:40 +0000",
       "wheat": "2025-08-26 05:58:41 +0000",
       "melon": "2025-08-26 21:58:58 +0000"
     },
@@ -5648,15 +5649,51 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/pink_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-08-28 07:44:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-08-28 07:21:56 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-08-28 07:33:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-08-28 07:33:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/orange_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-08-28 07:44:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_slab_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2025-08-28 07:39:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/retinal_scanner": {
     "criteria": {
       "has_stone": "2025-08-28 07:16:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/tools/lead_from_straw": {
+    "criteria": {
+      "has_straw": "2025-08-28 07:37:05 +0000"
     },
     "done": true
   },
@@ -5690,6 +5727,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_spruce_button": {
+    "criteria": {
+      "has_block": "2025-08-28 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_stairs": {
+    "criteria": {
+      "has_block": "2025-08-28 07:39:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_blackstone_wall_from_reinforced_blackstone_stonecutting": {
     "criteria": {
       "has_reinforced_blackstone": "2025-08-28 07:16:49 +0000"
@@ -5720,6 +5769,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/blue_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-08-28 07:44:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_polished_blackstone_from_reinforced_blackstone_stonecutting": {
     "criteria": {
       "has_reinforced_blackstone": "2025-08-28 07:16:49 +0000"
@@ -5732,15 +5787,69 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/white_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-08-28 07:44:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-08-28 07:21:56 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/black_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-08-28 07:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-08-28 07:33:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_wall_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2025-08-28 07:39:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/brown_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-08-28 07:44:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone": {
+    "criteria": {
+      "has_item": "2025-08-28 07:39:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_bricks": "2025-08-28 07:29:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/gray_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-08-28 07:44:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_cobblestone_wall": {
+    "criteria": {
+      "has_block": "2025-08-28 07:39:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/lime_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-08-28 07:44:51 +0000"
     },
     "done": true
   },
@@ -5786,9 +5895,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-28 07:33:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_spruce_stairs": {
+    "criteria": {
+      "has_block": "2025-08-28 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_slab": {
+    "criteria": {
+      "has_block": "2025-08-28 07:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-28 07:33:57 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_polished_blackstone_brick_stairs_from_reinforced_blackstone_stonecutting": {
     "criteria": {
       "has_reinforced_blackstone": "2025-08-28 07:16:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/rope": {
+    "criteria": {
+      "has_straw": "2025-08-28 07:37:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_tree_bark": {
+    "criteria": {
+      "has_straw": "2025-08-28 07:37:05 +0000"
     },
     "done": true
   },
@@ -5804,15 +5949,39 @@
     },
     "done": true
   },
+  "superbwarfare:recipes/decorations/barbed_wire": {
+    "criteria": {
+      "has_iron_bars": "2025-08-28 07:43:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-08-28 07:50:14 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_blackstone_stairs": {
     "criteria": {
       "has_block": "2025-08-28 07:16:49 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/straw_bale": {
+    "criteria": {
+      "has_straw": "2025-08-28 07:37:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_polished_blackstone_wall_from_reinforced_blackstone_stonecutting": {
     "criteria": {
       "has_reinforced_blackstone": "2025-08-28 07:16:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2025-08-28 07:32:49 +0000"
     },
     "done": true
   },
@@ -5825,6 +5994,24 @@
   "securitycraft:recipes/building_blocks/reinforced_chiseled_polished_blackstone_from_reinforced_blackstone_stonecutting": {
     "criteria": {
       "has_reinforced_blackstone": "2025-08-28 07:16:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cyan_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-08-28 07:44:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-08-28 07:50:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/magenta_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-08-28 07:44:51 +0000"
     },
     "done": true
   },
@@ -5846,9 +6033,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
+    "criteria": {
+      "has_torchflower": "2025-08-28 07:46:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-08-28 07:48:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-28 07:33:57 +0000"
+    },
+    "done": true
+  },
   "superbwarfare:recipes/misc/iron_trigger": {
     "criteria": {
       "has_iron_ingot": "2025-08-28 06:45:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/green_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-08-28 07:44:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_stairs_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2025-08-28 07:39:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-08-28 07:33:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-28 07:33:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/canvas": {
+    "criteria": {
+      "has_straw": "2025-08-28 07:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-08-28 07:48:25 +0000"
     },
     "done": true
   },
@@ -5876,6 +6117,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-08-28 07:33:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_spruce_pressure_plate": {
+    "criteria": {
+      "has_block": "2025-08-28 07:42:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-08-28 07:32:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-08-28 07:33:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-08-28 07:33:57 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_polished_blackstone_slab_from_reinforced_blackstone_stonecutting": {
     "criteria": {
       "has_reinforced_blackstone": "2025-08-28 07:16:49 +0000"
@@ -5891,6 +6162,12 @@
   "securitycraft:recipes/misc/keypad_item": {
     "criteria": {
       "has_stone_button": "2025-08-28 07:06:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
+    "criteria": {
+      "has_straw": "2025-08-28 07:37:05 +0000"
     },
     "done": true
   },
@@ -5918,9 +6195,51 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/yellow_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-08-28 07:44:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/light_gray_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-08-28 07:44:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2025-08-28 07:37:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_lever": {
+    "criteria": {
+      "has_cobble": "2025-08-28 07:39:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/red_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-08-28 07:44:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-08-28 07:29:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/light_blue_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-08-28 07:44:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_spruce_slab": {
+    "criteria": {
+      "has_block": "2025-08-28 07:42:52 +0000"
     },
     "done": true
   },
@@ -5933,6 +6252,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-28 07:21:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/purple_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-08-28 07:44:51 +0000"
     },
     "done": true
   },
