@@ -2048,3 +2048,27 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [28Aug2025 06:37:05.928] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/3805, l='ServerLevel[world]', x=-1430.02, y=69.00, z=-358.30] died, message: 'Butcher was slain by Ghost'
 [28Aug2025 06:37:24.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Fetch Me Their Souls!]
 [28Aug2025 06:38:58.037] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3b4b5272[id=<null>,name=EMILIOSIFUENTES,properties={},legacy=false] (/127.187.194.5:44521) lost connection: Disconnected
+[28Aug2025 06:39:05.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has reached the goal [Great minds think alike]
+[28Aug2025 06:39:06.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
+[28Aug2025 06:39:25.756] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4515ms or 90 ticks behind
+[28Aug2025 06:39:48.614] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7873ms or 157 ticks behind
+[28Aug2025 06:40:42.053] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[28Aug2025 06:40:43.346] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@68f0708a[id=<null>,name=EMILIOSIFUENTES,properties={},legacy=false] (/127.187.194.5:55011) lost connection: Disconnected
+[28Aug2025 06:40:59.890] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2849ms or 56 ticks behind
+[28Aug2025 06:41:18.156] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3315ms or 66 ticks behind
+[28Aug2025 06:41:19.982] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@19051831[id=<null>,name=EMILIOSIFUENTES,properties={},legacy=false] (/127.187.194.5:46945) lost connection: Disconnected
+[28Aug2025 06:41:28.895] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7c660644[id=<null>,name=EMILIOSIFUENTES,properties={},legacy=false] (/127.187.194.5:41027) lost connection: Disconnected
+[28Aug2025 06:42:03.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[28Aug2025 06:42:17.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> nimodo, hoy me tengo que dormir tempranito
+[28Aug2025 06:42:17.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> chao
+[28Aug2025 06:42:18.936] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Disconnected
+[28Aug2025 06:42:18.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[28Aug2025 06:42:20.812] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2272ms or 45 ticks behind
+[28Aug2025 06:43:07.622] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EMILIOSIFUENTES[/127.187.194.5:52805] logged in with entity id 9656 at (-385.30000001192093, 29.0, 534.6999999880791)
+[28Aug2025 06:43:07.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES joined the game
+[28Aug2025 06:43:07.717] [Server thread/INFO] [Jade/]: Syncing config to EMILIOSIFUENTES (718328ac-5ecb-3187-a56d-9301a7dd78ea)
+[28Aug2025 06:44:21.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to Eduardo171]
+[28Aug2025 06:45:49.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has reached the goal [Plant Food]
+[28Aug2025 06:46:09.268] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/8776, l='ServerLevel[world]', x=-1062.55, y=101.00, z=173.41] died, message: 'Weaponsmith was slain by Zombie'
+[28Aug2025 06:46:45.180] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Disconnected
+[28Aug2025 06:46:45.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game

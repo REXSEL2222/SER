@@ -5628,6 +5628,42 @@
     },
     "done": true
   },
+  "superbwarfare:recipes/misc/iron_spring": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 06:45:01 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2025-08-28 06:37:24 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/iron_barrel": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 06:45:01 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/iron_action": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 06:45:01 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/iron_trigger": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 06:45:01 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/ammo_box": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 06:45:01 +0000"
+    },
+    "done": true
+  },
   "superbwarfare:main/root": {
     "criteria": {
       "0": "2025-08-28 06:34:52 +0000"

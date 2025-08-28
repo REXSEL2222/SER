@@ -1475,6 +1475,7 @@
       "beetroot": "2025-08-26 06:02:08 +0000",
       "sugar_cane": "2025-08-26 06:44:45 +0000",
       "potato": "2025-08-26 06:02:19 +0000",
+      "nether_wart": "2025-08-28 06:38:12 +0000",
       "wheat": "2025-08-26 06:01:33 +0000",
       "carrot": "2025-08-26 05:58:50 +0000"
     },
@@ -4574,6 +4575,48 @@
   "superbwarfare:main/root": {
     "criteria": {
       "0": "2025-08-28 06:33:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_rich_soil": {
+    "criteria": {
+      "get_rich_soil": "2025-08-28 06:45:49 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/iron_spring": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 06:38:44 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/iron_barrel": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 06:38:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-08-28 06:39:05 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/iron_action": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 06:38:44 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/iron_trigger": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 06:38:44 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/ammo_box": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 06:38:44 +0000"
     },
     "done": true
   },

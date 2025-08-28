@@ -4566,7 +4566,8 @@
   },
   "spartanweaponry:collect_heads": {
     "criteria": {
-      "skeleton_skull": "2025-08-27 05:18:05 +0000"
+      "skeleton_skull": "2025-08-27 05:18:05 +0000",
+      "piglin_head": "2025-08-28 06:42:00 +0000"
     },
     "done": false
   },
@@ -5144,6 +5145,36 @@
   "superbwarfare:main/root": {
     "criteria": {
       "0": "2025-08-28 06:32:12 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/iron_spring": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 06:40:24 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/iron_barrel": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 06:40:24 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/iron_action": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 06:40:24 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/iron_trigger": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 06:40:24 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/ammo_box": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-28 06:40:24 +0000"
     },
     "done": true
   },
