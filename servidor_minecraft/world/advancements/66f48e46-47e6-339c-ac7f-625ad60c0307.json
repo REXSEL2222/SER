@@ -5721,6 +5721,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-28 08:19:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_blackstone_wall": {
     "criteria": {
       "has_block": "2025-08-28 07:16:49 +0000"
@@ -5751,6 +5757,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-28 08:19:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_blackstone_wall_from_reinforced_blackstone_stonecutting": {
     "criteria": {
       "has_reinforced_blackstone": "2025-08-28 07:16:49 +0000"
@@ -5769,6 +5781,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-28 08:19:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-28 07:21:56 +0000"
@@ -5778,6 +5796,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-08-28 07:21:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-28 08:19:31 +0000"
     },
     "done": true
   },
@@ -5838,6 +5862,12 @@
   "farmersdelight:recipes/decorations/brown_hanging_canvas_sign": {
     "criteria": {
       "has_hanging_canvas_sign": "2025-08-28 07:44:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-08-28 08:19:31 +0000"
     },
     "done": true
   },
@@ -6069,6 +6099,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-28 08:19:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-08-28 07:33:57 +0000"
@@ -6123,6 +6159,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-28 08:19:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-28 08:19:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/skillet": {
     "criteria": {
       "has_brick": "2025-08-28 07:29:20 +0000"
@@ -6138,6 +6186,18 @@
   "securitycraft:recipes/building_blocks/reinforced_polished_blackstone_stairs_from_reinforced_blackstone_stonecutting": {
     "criteria": {
       "has_reinforced_blackstone": "2025-08-28 07:16:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-28 08:19:31 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/empty_perk": {
+    "criteria": {
+      "has_paper": "2025-08-28 08:15:18 +0000"
     },
     "done": true
   },

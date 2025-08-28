@@ -4620,27 +4620,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/basket": {
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
-      "has_canvas": "2025-08-28 07:43:12 +0000"
+      "has_bamboo": "2025-08-28 07:21:49 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/pink_hanging_canvas_sign": {
+  "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
-      "has_hanging_canvas_sign": "2025-08-28 07:43:43 +0000"
+      "has_bamboo": "2025-08-28 07:21:49 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/orange_hanging_canvas_sign": {
+  "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
-      "has_hanging_canvas_sign": "2025-08-28 07:43:43 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/tools/lead_from_straw": {
-    "criteria": {
-      "has_straw": "2025-08-28 07:36:20 +0000"
+      "has_bamboo": "2025-08-28 07:21:49 +0000"
     },
     "done": true
   },
@@ -4650,63 +4644,99 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lectern": {
+  "farmersdelight:main/craft_knife": {
     "criteria": {
-      "has_book": "2025-08-28 07:50:52 +0000"
+      "iron_knife": "2025-08-28 07:36:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/writable_book": {
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
     "criteria": {
-      "has_book": "2025-08-28 07:50:52 +0000"
+      "has_iron_knife": "2025-08-28 07:36:16 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/blue_hanging_canvas_sign": {
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
     "criteria": {
-      "has_hanging_canvas_sign": "2025-08-28 07:43:43 +0000"
+      "has_iron_knife": "2025-08-28 07:36:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/tools/lead_from_straw": {
+    "criteria": {
+      "has_straw": "2025-08-28 07:36:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/rope": {
+    "criteria": {
+      "has_straw": "2025-08-28 07:36:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_tree_bark": {
+    "criteria": {
+      "has_straw": "2025-08-28 07:36:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/straw_bale": {
+    "criteria": {
+      "has_straw": "2025-08-28 07:36:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/canvas": {
+    "criteria": {
+      "has_straw": "2025-08-28 07:36:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
+    "criteria": {
+      "has_straw": "2025-08-28 07:36:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2025-08-28 07:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2025-08-28 07:40:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/paper_from_tree_bark": {
+    "criteria": {
+      "has_tree_bark": "2025-08-28 07:40:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-08-28 07:40:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-28 07:40:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/basket": {
+    "criteria": {
+      "has_canvas": "2025-08-28 07:43:12 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/misc/book_from_canvas": {
     "criteria": {
       "has_canvas": "2025-08-28 07:43:12 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/white_hanging_canvas_sign": {
-    "criteria": {
-      "has_hanging_canvas_sign": "2025-08-28 07:43:43 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/black_hanging_canvas_sign": {
-    "criteria": {
-      "has_hanging_canvas_sign": "2025-08-28 07:43:43 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/brown_hanging_canvas_sign": {
-    "criteria": {
-      "has_hanging_canvas_sign": "2025-08-28 07:43:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_helmet": {
-    "criteria": {
-      "has_item": "2025-08-28 07:43:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_leggings": {
-    "criteria": {
-      "has_item": "2025-08-28 07:43:24 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/gray_hanging_canvas_sign": {
-    "criteria": {
-      "has_hanging_canvas_sign": "2025-08-28 07:43:43 +0000"
     },
     "done": true
   },
@@ -4728,45 +4758,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/lime_hanging_canvas_sign": {
-    "criteria": {
-      "has_hanging_canvas_sign": "2025-08-28 07:43:43 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/chain": {
-    "criteria": {
-      "has_item": "2025-08-28 07:43:24 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/building_blocks/tatami_block_from_full": {
     "criteria": {
       "has_canvas": "2025-08-28 07:43:12 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "iron_knife": "2025-08-28 07:36:16 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/rope": {
-    "criteria": {
-      "has_straw": "2025-08-28 07:36:20 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/organic_compost_from_tree_bark": {
-    "criteria": {
-      "has_straw": "2025-08-28 07:36:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
-    "criteria": {
-      "has_log": "2025-08-28 07:40:40 +0000"
     },
     "done": true
   },
@@ -4782,105 +4776,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
-    "criteria": {
-      "has_iron_knife": "2025-08-28 07:36:16 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/straw_bale": {
-    "criteria": {
-      "has_straw": "2025-08-28 07:36:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_boots": {
-    "criteria": {
-      "has_item": "2025-08-28 07:43:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2025-08-28 07:50:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/cyan_hanging_canvas_sign": {
-    "criteria": {
-      "has_hanging_canvas_sign": "2025-08-28 07:43:43 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/building_blocks/tatami": {
     "criteria": {
       "has_canvas": "2025-08-28 07:43:12 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
-    "criteria": {
-      "has_iron_knife": "2025-08-28 07:36:16 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/magenta_hanging_canvas_sign": {
-    "criteria": {
-      "has_hanging_canvas_sign": "2025-08-28 07:43:43 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-08-28 07:50:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_dye_from_torchflower": {
-    "criteria": {
-      "has_torchflower": "2025-08-28 07:46:02 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/paper_from_tree_bark": {
-    "criteria": {
-      "has_tree_bark": "2025-08-28 07:40:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-08-28 07:50:52 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
-    "criteria": {
-      "has_book": "2025-08-28 07:50:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/green_hanging_canvas_sign": {
-    "criteria": {
-      "has_hanging_canvas_sign": "2025-08-28 07:43:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_chestplate": {
-    "criteria": {
-      "has_item": "2025-08-28 07:43:24 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/canvas": {
-    "criteria": {
-      "has_straw": "2025-08-28 07:36:20 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/empty_perk": {
-    "criteria": {
-      "has_paper": "2025-08-28 07:50:09 +0000"
     },
     "done": true
   },
@@ -4890,21 +4788,111 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/packed_mud_from_straw": {
-    "criteria": {
-      "has_straw": "2025-08-28 07:36:20 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/decorations/painting_from_canvas": {
     "criteria": {
       "has_canvas": "2025-08-28 07:43:12 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/use_cutting_board": {
+  "farmersdelight:recipes/decorations/scaffolding_from_canvas": {
     "criteria": {
-      "cutting_board": "2025-08-28 07:40:40 +0000"
+      "has_canvas": "2025-08-28 07:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-08-28 07:43:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-08-28 07:43:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-08-28 07:43:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-08-28 07:43:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-28 07:43:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/pink_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-08-28 07:43:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/orange_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-08-28 07:43:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/blue_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-08-28 07:43:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/white_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-08-28 07:43:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/black_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-08-28 07:43:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/brown_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-08-28 07:43:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/gray_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-08-28 07:43:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/lime_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-08-28 07:43:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cyan_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-08-28 07:43:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/magenta_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-08-28 07:43:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/green_hanging_canvas_sign": {
+    "criteria": {
+      "has_hanging_canvas_sign": "2025-08-28 07:43:43 +0000"
     },
     "done": true
   },
@@ -4914,27 +4902,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/use_purification": {
-    "criteria": {
-      "has_magic_scroll": "2025-08-28 07:47:49 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/decorations/light_gray_hanging_canvas_sign": {
     "criteria": {
       "has_hanging_canvas_sign": "2025-08-28 07:43:43 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/harvest_straw": {
-    "criteria": {
-      "harvest_straw": "2025-08-28 07:36:20 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/scaffolding_from_canvas": {
-    "criteria": {
-      "has_canvas": "2025-08-28 07:43:12 +0000"
     },
     "done": true
   },
@@ -4950,39 +4920,99 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_any_sniffer_seed": {
-    "criteria": {
-      "torchflower": "2025-08-28 07:45:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
-    "criteria": {
-      "has_bamboo": "2025-08-28 07:21:49 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/decorations/purple_hanging_canvas_sign": {
     "criteria": {
       "has_hanging_canvas_sign": "2025-08-28 07:43:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bamboo_block": {
+  "minecraft:husbandry/plant_any_sniffer_seed": {
     "criteria": {
-      "has_bamboo": "2025-08-28 07:21:49 +0000"
+      "torchflower": "2025-08-28 07:45:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/jungle_hanging_sign": {
+  "minecraft:recipes/misc/orange_dye_from_torchflower": {
     "criteria": {
-      "has_stripped_logs": "2025-08-28 07:40:40 +0000"
+      "has_torchflower": "2025-08-28 07:46:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/scaffolding": {
+  "tombstone:adventure/use_purification": {
     "criteria": {
-      "has_bamboo": "2025-08-28 07:21:49 +0000"
+      "has_magic_scroll": "2025-08-28 07:47:49 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/empty_perk": {
+    "criteria": {
+      "has_paper": "2025-08-28 07:50:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-08-28 07:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-08-28 07:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-28 07:50:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-28 07:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-28 07:50:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-28 07:50:52 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed": "2025-08-28 08:12:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-28 08:13:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-08-28 08:13:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-28 08:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-08-28 08:21:00 +0000"
     },
     "done": true
   },
