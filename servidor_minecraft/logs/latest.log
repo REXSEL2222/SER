@@ -3212,3 +3212,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [28Aug2025 07:55:40.529] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1462, y=69, z=-332} BlockPos{x=-1461, y=69, z=-332}
 [28Aug2025 07:55:40.569] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1462, y=69, z=-332} BlockPos{x=-1461, y=69, z=-332}
 [28Aug2025 07:55:40.630] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1462, y=69, z=-332} BlockPos{x=-1461, y=69, z=-332}
+[28Aug2025 08:08:49.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Bonfire Lit]
+[28Aug2025 08:11:47.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Creative Mode]
+[28Aug2025 08:11:48.089] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.114.254.74:60993] logged in with entity id 41562 at (-1442.1473129808496, 66.0, -367.51860148323055)
+[28Aug2025 08:11:48.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
+[28Aug2025 08:11:48.274] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
+[28Aug2025 08:12:00.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Set own game mode to Survival Mode]
+[28Aug2025 08:12:52.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [It's an Emu!!!]

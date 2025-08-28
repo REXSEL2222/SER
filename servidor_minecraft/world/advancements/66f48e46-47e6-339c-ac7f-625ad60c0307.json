@@ -5709,6 +5709,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_quartz_block": {
+    "criteria": {
+      "has_slab": "2025-08-28 08:01:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-08-28 07:21:56 +0000"
@@ -5718,6 +5724,12 @@
   "securitycraft:recipes/decorations/reinforced_blackstone_wall": {
     "criteria": {
       "has_block": "2025-08-28 07:16:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-08-28 08:08:49 +0000"
     },
     "done": true
   },
