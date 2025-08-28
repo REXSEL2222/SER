@@ -5811,6 +5811,12 @@
     },
     "done": true
   },
+  "superbwarfare:recipes/misc/armor_plate": {
+    "criteria": {
+      "has_string": "2025-08-28 07:57:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_cobblestone_wall_from_reinforced_cobblestone_stonecutting": {
     "criteria": {
       "has_reinforced_cobblestone": "2025-08-28 07:39:02 +0000"
@@ -5922,6 +5928,12 @@
   "securitycraft:recipes/building_blocks/reinforced_polished_blackstone_brick_stairs_from_reinforced_blackstone_stonecutting": {
     "criteria": {
       "has_reinforced_blackstone": "2025-08-28 07:16:49 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/medical_kit": {
+    "criteria": {
+      "has_string": "2025-08-28 07:57:21 +0000"
     },
     "done": true
   },
