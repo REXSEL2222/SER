@@ -1960,6 +1960,7 @@
       "minecraft:spider": "2025-08-26 06:24:45 +0000",
       "minecraft:piglin_brute": "2025-08-30 03:39:04 +0000",
       "minecraft:creeper": "2025-08-26 20:57:37 +0000",
+      "minecraft:zombified_piglin": "2025-08-30 06:51:43 +0000",
       "minecraft:witch": "2025-08-27 04:27:31 +0000",
       "minecraft:cave_spider": "2025-08-27 05:51:00 +0000",
       "minecraft:enderman": "2025-08-30 03:34:50 +0000",
@@ -4955,27 +4956,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
+  "tombstone:adventure/bone_crusher": {
     "criteria": {
-      "has_any_ingredient": "2025-08-30 05:54:27 +0000"
+      "coded_trigger": "2025-08-30 05:02:25 +0000"
     },
     "done": true
   },
-  "superbwarfare:recipes/combat/mp_443_smithing": {
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
-      "has_mp_443_blueprint": "2025-08-30 05:21:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_torch": {
-    "criteria": {
-      "has_redstone": "2025-08-30 05:38:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-08-30 06:02:04 +0000"
+      "has_wither_rose": "2025-08-30 05:03:51 +0000"
     },
     "done": true
   },
@@ -4985,9 +4974,111 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-30 05:06:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-30 05:06:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-08-30 05:06:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-08-30 05:09:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-08-30 05:09:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-08-30 05:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-08-30 05:09:31 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-08-30 05:15:18 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/mp_443_smithing": {
+    "criteria": {
+      "has_mp_443_blueprint": "2025-08-30 05:21:48 +0000"
+    },
+    "done": true
+  },
   "superbwarfare:recipes/misc/mp_443_blueprint": {
     "criteria": {
       "has_mp_443_blueprint": "2025-08-30 05:21:48 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/common_blueprint": {
+    "criteria": {
+      "0": "2025-08-30 05:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-08-30 05:32:18 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/netherite_trigger": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-08-30 05:32:18 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/netherite_spring": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-08-30 05:32:18 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/netherite_action": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-08-30 05:32:18 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/netherite_barrel": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-08-30 05:32:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-08-30 05:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-08-30 05:38:56 +0000"
     },
     "done": true
   },
@@ -5003,21 +5094,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/apple_cider": {
-    "criteria": {
-      "has_apple": "2025-08-30 06:12:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-08-30 05:38:56 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/mosin_nagant_blueprint": {
-    "criteria": {
-      "has_mosin_nagant_blueprint": "2025-08-30 05:54:27 +0000"
     },
     "done": true
   },
@@ -5027,33 +5106,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-08-30 06:02:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2025-08-30 06:02:04 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/dumplings": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-30 05:06:18 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/portable_radar": {
     "criteria": {
       "has_redstone": "2025-08-30 05:38:56 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/redstone/aircraft_catapult": {
-    "criteria": {
-      "has_powered_rail": "2025-08-30 05:54:27 +0000"
     },
     "done": true
   },
@@ -5075,33 +5130,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/strong_or_careful": {
-    "criteria": {
-      "coded_trigger": "2025-08-30 06:16:40 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/combat/mosin_nagant_smithing": {
-    "criteria": {
-      "has_mosin_nagant_blueprint": "2025-08-30 05:54:27 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/place_cooking_pot": {
-    "criteria": {
-      "cooking_pot": "2025-08-30 05:36:20 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/tools/universal_key_changer": {
     "criteria": {
       "has_redstone": "2025-08-30 05:38:56 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:main/common_blueprint": {
-    "criteria": {
-      "0": "2025-08-30 05:21:48 +0000"
     },
     "done": true
   },
@@ -5111,33 +5142,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-08-30 05:32:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2025-08-30 05:09:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-08-30 05:38:56 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/combat/m_1911_smithing": {
-    "criteria": {
-      "has_m_1911_blueprint": "2025-08-30 06:00:13 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/netherite_trigger": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-08-30 05:32:18 +0000"
     },
     "done": true
   },
@@ -5159,27 +5166,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/cabbage_rolls": {
-    "criteria": {
-      "has_any_ingredient": "2025-08-30 05:06:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2025-08-30 05:03:51 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_piston": {
     "criteria": {
       "has_redstone": "2025-08-30 05:38:56 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/chain_death": {
-    "criteria": {
-      "coded_trigger": "2025-08-30 06:17:29 +0000"
     },
     "done": true
   },
@@ -5189,51 +5178,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2025-08-30 05:09:23 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/cooked_rice": {
-    "criteria": {
-      "has_rice": "2025-08-30 05:54:27 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/m_1911_blueprint": {
-    "criteria": {
-      "has_m_1911_blueprint": "2025-08-30 06:00:13 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
     "criteria": {
       "has_redstone": "2025-08-30 05:38:56 +0000"
     },
     "done": true
   },
-  "superbwarfare:recipes/misc/netherite_spring": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-08-30 05:32:18 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/keypad_frame": {
     "criteria": {
       "has_redstone": "2025-08-30 05:38:56 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/bone_crusher": {
-    "criteria": {
-      "coded_trigger": "2025-08-30 05:02:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-08-30 05:09:23 +0000"
     },
     "done": true
   },
@@ -5249,51 +5202,15 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/acacia_blossom": {
-    "criteria": {
-      "acacia_blossom": "2025-08-30 05:15:18 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/panic_button": {
     "criteria": {
       "has_redstone": "2025-08-30 05:38:56 +0000"
     },
     "done": true
   },
-  "superbwarfare:recipes/misc/netherite_action": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-08-30 05:32:18 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/netherite_barrel": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-08-30 05:32:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2025-08-30 05:09:31 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/rice_bag": {
-    "criteria": {
-      "has_rice": "2025-08-30 05:54:27 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/tools/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2025-08-30 05:38:56 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/cabbage_crate": {
-    "criteria": {
-      "has_cabbage": "2025-08-30 05:06:18 +0000"
     },
     "done": true
   },
@@ -5306,6 +5223,228 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-08-30 05:38:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-30 05:54:27 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/mosin_nagant_blueprint": {
+    "criteria": {
+      "has_mosin_nagant_blueprint": "2025-08-30 05:54:27 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/redstone/aircraft_catapult": {
+    "criteria": {
+      "has_powered_rail": "2025-08-30 05:54:27 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/mosin_nagant_smithing": {
+    "criteria": {
+      "has_mosin_nagant_blueprint": "2025-08-30 05:54:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-08-30 05:54:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-08-30 05:54:27 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/m_1911_smithing": {
+    "criteria": {
+      "has_m_1911_blueprint": "2025-08-30 06:00:13 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/m_1911_blueprint": {
+    "criteria": {
+      "has_m_1911_blueprint": "2025-08-30 06:00:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-30 06:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-08-30 06:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-08-30 06:02:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-08-30 06:12:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-08-30 06:16:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-08-30 06:17:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-08-30 06:53:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-08-30 06:29:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
+    "criteria": {
+      "has_dragonscales_copper": "2025-08-30 06:29:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-08-30 06:29:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_lightning_dragon": "2025-08-30 06:28:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-08-30 06:29:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-08-30 06:29:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-30 06:31:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-08-30 06:29:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-08-30 06:29:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-08-30 06:29:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-08-30 06:37:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_helmet": {
+    "criteria": {
+      "has_item": "2025-08-30 06:29:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-08-30 06:29:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_boots": {
+    "criteria": {
+      "has_item": "2025-08-30 06:29:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-08-30 06:29:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-08-30 06:29:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-30 06:29:09 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-08-30 06:32:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-08-30 06:29:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-08-30 06:29:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-08-30 06:29:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_leggings": {
+    "criteria": {
+      "has_item": "2025-08-30 06:29:09 +0000"
     },
     "done": true
   },
