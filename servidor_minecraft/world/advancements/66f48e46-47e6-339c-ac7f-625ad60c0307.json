@@ -909,6 +909,7 @@
       "minecraft:zombified_piglin": "2025-08-29 05:17:22 +0000",
       "minecraft:wither_skeleton": "2025-08-29 05:11:32 +0000",
       "minecraft:piglin": "2025-08-27 06:00:09 +0000",
+      "minecraft:enderman": "2025-08-30 02:53:41 +0000",
       "minecraft:zombie": "2025-08-26 05:45:00 +0000",
       "minecraft:drowned": "2025-08-26 20:51:25 +0000"
     },
@@ -6432,81 +6433,39 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/egg_sandwich": {
-    "criteria": {
-      "has_fried_egg": "2025-08-29 04:39:05 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/ak_12_blueprint": {
-    "criteria": {
-      "has_ak_12_blueprint": "2025-08-29 05:37:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-08-29 05:10:32 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/glock_18_blueprint": {
-    "criteria": {
-      "has_glock_18_blueprint": "2025-08-29 05:41:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-08-29 05:58:17 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/hk_416_blueprint": {
-    "criteria": {
-      "has_hk_416_blueprint": "2025-08-29 05:42:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crimson_sign": {
-    "criteria": {
-      "has_planks": "2025-08-29 05:58:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_door": {
-    "criteria": {
-      "has_planks": "2025-08-29 05:58:17 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/m_2_hb_blueprint": {
-    "criteria": {
-      "has_m_2_hb_blueprint": "2025-08-29 05:37:25 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:main/blueprint": {
-    "criteria": {
-      "0": "2025-08-29 05:37:19 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/mosin_nagant_blueprint": {
-    "criteria": {
-      "has_mosin_nagant_blueprint": "2025-08-29 05:41:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/blue_bed": {
     "criteria": {
       "has_blue_wool": "2025-08-29 04:22:19 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+  "minecraft:recipes/decorations/blue_banner": {
     "criteria": {
-      "has_snout_armor_trim_smithing_template": "2025-08-29 05:37:25 +0000"
+      "has_blue_wool": "2025-08-29 04:22:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-08-29 04:22:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2025-08-29 04:39:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
+    "criteria": {
+      "has_stick": "2025-08-29 04:54:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-08-29 04:54:39 +0000"
     },
     "done": true
   },
@@ -6522,45 +6481,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crimson_fence": {
-    "criteria": {
-      "has_planks": "2025-08-29 05:58:17 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-08-29 05:29:36 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/combat/vector_smithing": {
-    "criteria": {
-      "has_vector_blueprint": "2025-08-29 05:42:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-08-29 05:10:16 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/vector_blueprint": {
-    "criteria": {
-      "has_vector_blueprint": "2025-08-29 05:42:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_planks": {
-    "criteria": {
-      "has_logs": "2025-08-29 06:13:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_banner": {
-    "criteria": {
-      "has_blue_wool": "2025-08-29 04:22:19 +0000"
     },
     "done": true
   },
@@ -6570,75 +6493,9 @@
     },
     "done": true
   },
-  "superbwarfare:recipes/combat/mosin_nagant_smithing": {
-    "criteria": {
-      "has_mosin_nagant_blueprint": "2025-08-29 05:41:14 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
-    "criteria": {
-      "has_stick": "2025-08-29 04:54:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-08-29 05:10:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
-    "criteria": {
-      "has_warped_fungus": "2025-08-29 05:54:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_button": {
-    "criteria": {
-      "has_planks": "2025-08-29 05:58:17 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed_by": "2025-08-29 05:12:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_slab": {
-    "criteria": {
-      "has_planks": "2025-08-29 05:58:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_stairs": {
-    "criteria": {
-      "has_planks": "2025-08-29 05:58:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-08-29 05:41:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/ride_strider": {
-    "criteria": {
-      "used_warped_fungus_on_a_stick": "2025-08-29 06:02:13 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:collect_heads": {
-    "criteria": {
-      "wither_skeleton_skull": "2025-08-29 05:19:18 +0000"
-    },
-    "done": false
-  },
-  "superbwarfare:recipes/misc/netherite_trigger": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-08-29 05:41:15 +0000"
     },
     "done": true
   },
@@ -6654,27 +6511,9 @@
     },
     "done": true
   },
-  "superbwarfare:main/epic_blueprint": {
-    "criteria": {
-      "0": "2025-08-29 05:42:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-08-29 05:10:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_hyphae": {
-    "criteria": {
-      "has_log": "2025-08-29 06:13:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-08-29 05:58:17 +0000"
     },
     "done": true
   },
@@ -6684,45 +6523,63 @@
     },
     "done": true
   },
-  "superbwarfare:main/rare_blueprint": {
-    "criteria": {
-      "0": "2025-08-29 05:37:19 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/netherite_spring": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-08-29 05:41:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-08-29 05:10:16 +0000"
     },
     "done": true
   },
-  "superbwarfare:recipes/combat/ak_12_smithing": {
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
-      "has_ak_12_blueprint": "2025-08-29 05:37:19 +0000"
+      "has_nether_bricks": "2025-08-29 05:10:16 +0000"
     },
     "done": true
   },
-  "superbwarfare:recipes/misc/qbz_95_blueprint": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "has_qbz_95_blueprint": "2025-08-29 05:41:47 +0000"
+      "blaze_rod": "2025-08-29 05:10:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_bricks": {
+  "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
-      "has_nether_brick": "2025-08-29 04:54:39 +0000"
+      "has_blaze_rod": "2025-08-29 05:10:32 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-29 05:10:32 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-08-29 05:12:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "wither_skeleton_skull": "2025-08-29 05:19:18 +0000"
+    },
+    "done": false
   },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-08-29 05:19:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-08-29 05:19:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-08-29 05:29:36 +0000"
     },
     "done": true
   },
@@ -6732,15 +6589,87 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blue_carpet": {
+  "superbwarfare:recipes/misc/ak_12_blueprint": {
     "criteria": {
-      "has_blue_wool": "2025-08-29 04:22:19 +0000"
+      "has_ak_12_blueprint": "2025-08-29 05:37:19 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/blueprint": {
+    "criteria": {
+      "0": "2025-08-29 05:37:19 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/rare_blueprint": {
+    "criteria": {
+      "0": "2025-08-29 05:37:19 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/ak_12_smithing": {
+    "criteria": {
+      "has_ak_12_blueprint": "2025-08-29 05:37:19 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/m_2_hb_blueprint": {
+    "criteria": {
+      "has_m_2_hb_blueprint": "2025-08-29 05:37:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-08-29 05:37:25 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-08-29 05:37:25 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/m_2_hb_smithing": {
+    "criteria": {
+      "has_m_2_hb_blueprint": "2025-08-29 05:37:25 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/mosin_nagant_blueprint": {
+    "criteria": {
+      "has_mosin_nagant_blueprint": "2025-08-29 05:41:14 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/mosin_nagant_smithing": {
+    "criteria": {
+      "has_mosin_nagant_blueprint": "2025-08-29 05:41:14 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/glock_18_blueprint": {
+    "criteria": {
+      "has_glock_18_blueprint": "2025-08-29 05:41:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-08-29 05:41:15 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/netherite_trigger": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-08-29 05:41:15 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/netherite_spring": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-08-29 05:41:15 +0000"
     },
     "done": true
   },
@@ -6756,33 +6685,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/blaze_powder": {
+  "superbwarfare:recipes/combat/glock_18_smithing": {
     "criteria": {
-      "has_blaze_rod": "2025-08-29 05:10:32 +0000"
+      "has_glock_18_blueprint": "2025-08-29 05:41:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/crimson_fence_gate": {
+  "superbwarfare:recipes/misc/qbz_95_blueprint": {
     "criteria": {
-      "has_planks": "2025-08-29 05:58:17 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/combat/hk_416_smithing": {
-    "criteria": {
-      "has_hk_416_blueprint": "2025-08-29 05:42:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-08-29 05:10:16 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/combat/m_2_hb_smithing": {
-    "criteria": {
-      "has_m_2_hb_blueprint": "2025-08-29 05:37:25 +0000"
+      "has_qbz_95_blueprint": "2025-08-29 05:41:47 +0000"
     },
     "done": true
   },
@@ -6792,21 +6703,111 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/skull_banner_pattern": {
+  "superbwarfare:recipes/misc/hk_416_blueprint": {
     "criteria": {
-      "has_wither_skeleton_skull": "2025-08-29 05:19:18 +0000"
+      "has_hk_416_blueprint": "2025-08-29 05:42:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/brewing_stand": {
+  "superbwarfare:recipes/combat/hk_416_smithing": {
     "criteria": {
-      "has_blaze_rod": "2025-08-29 05:10:32 +0000"
+      "has_hk_416_blueprint": "2025-08-29 05:42:14 +0000"
     },
     "done": true
   },
-  "superbwarfare:recipes/combat/glock_18_smithing": {
+  "superbwarfare:recipes/combat/vector_smithing": {
     "criteria": {
-      "has_glock_18_blueprint": "2025-08-29 05:41:15 +0000"
+      "has_vector_blueprint": "2025-08-29 05:42:51 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/vector_blueprint": {
+    "criteria": {
+      "has_vector_blueprint": "2025-08-29 05:42:51 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/epic_blueprint": {
+    "criteria": {
+      "0": "2025-08-29 05:42:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-08-29 05:54:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-29 05:58:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-08-29 05:58:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-08-29 05:58:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-08-29 05:58:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-08-29 05:58:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-08-29 05:58:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-29 05:58:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-29 05:58:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-29 05:58:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/ride_strider": {
+    "criteria": {
+      "used_warped_fungus_on_a_stick": "2025-08-29 06:02:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-08-29 06:13:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-08-29 06:13:57 +0000"
     },
     "done": true
   },

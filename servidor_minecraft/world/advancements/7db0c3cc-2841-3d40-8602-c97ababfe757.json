@@ -5239,5 +5239,17 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2025-08-30 02:54:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-08-30 02:53:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
