@@ -5846,5 +5846,59 @@
     },
     "done": true
   },
+  "superbwarfare:recipes/misc/wheel_chair": {
+    "criteria": {
+      "has_minecart": "2025-08-30 05:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-08-30 05:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-08-30 05:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-08-30 05:10:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-08-30 05:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-08-30 05:10:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-08-30 05:11:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-08-30 05:11:36 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/tom_6": {
+    "criteria": {
+      "has_minecart": "2025-08-30 05:11:36 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
