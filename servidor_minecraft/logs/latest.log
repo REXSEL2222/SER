@@ -1139,3 +1139,27 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [30Aug2025 03:29:03.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Common]
 [30Aug2025 03:29:21.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Splintering II]
 [30Aug2025 03:29:24.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [A Flaming Sword]
+[30Aug2025 03:31:00.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[30Aug2025 03:31:20.722] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5472ms or 109 ticks behind
+[30Aug2025 03:31:43.435] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7735ms or 154 ticks behind
+[30Aug2025 03:32:03.938] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5538ms or 110 ticks behind
+[30Aug2025 03:33:45.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Eighty!]
+[30Aug2025 03:35:00.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel burned to death
+[30Aug2025 03:35:00.448] [Server thread/INFO] [tombstone/]: The player rexsel has successfully been saved
+[30Aug2025 03:35:05.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to Eduardo171]
+[30Aug2025 03:35:24.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 moved too quickly! -2.7844108195631634,-7.0,-6.703938164535629
+[30Aug2025 03:35:24.933] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3133ms or 62 ticks behind
+[30Aug2025 03:36:20.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [Those Were the Days]
+[30Aug2025 03:37:32.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Removed 1 from [MUERTES] for rexsel (now 4)]
+[30Aug2025 03:37:57.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Hot Stuff]
+[30Aug2025 03:38:16.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES was slain by Piglin Brute
+[30Aug2025 03:38:16.473] [Server thread/INFO] [tombstone/]: The player EMILIOSIFUENTES has successfully been saved
+[30Aug2025 03:38:36.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to Eduardo171]
+[30Aug2025 03:38:52.460] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3310ms or 66 ticks behind
+[30Aug2025 03:40:10.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to elikernomamahuev]
+[30Aug2025 03:40:12.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [War Pigs]
+[30Aug2025 03:40:16.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> tu que pexsel
+[30Aug2025 03:40:20.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [Things are different now]
+[30Aug2025 03:40:20.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [Rare]
+[30Aug2025 03:40:37.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to Eduardo171]
+[30Aug2025 03:40:58.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to Eduardo171]
