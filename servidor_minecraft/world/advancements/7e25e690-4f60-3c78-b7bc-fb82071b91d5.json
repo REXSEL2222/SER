@@ -43,6 +43,7 @@
       "minecraft:beach": "2025-08-27 06:01:00 +0000",
       "minecraft:sparse_jungle": "2025-08-26 06:25:33 +0000",
       "minecraft:river": "2025-08-26 05:52:46 +0000",
+      "minecraft:lukewarm_ocean": "2025-08-30 06:01:08 +0000",
       "minecraft:stony_shore": "2025-08-26 05:46:54 +0000",
       "minecraft:grove": "2025-08-27 04:14:24 +0000",
       "minecraft:jagged_peaks": "2025-08-27 04:01:21 +0000",
@@ -1012,6 +1013,8 @@
       "apple": "2025-08-29 06:14:59 +0000",
       "bread": "2025-08-26 06:49:08 +0000",
       "suspicious_stew": "2025-08-27 06:03:19 +0000",
+      "melon_slice": "2025-08-30 06:01:22 +0000",
+      "cooked_chicken": "2025-08-30 05:57:54 +0000",
       "carrot": "2025-08-26 20:39:05 +0000"
     },
     "done": false
@@ -6049,9 +6052,75 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-08-30 05:56:53 +0000"
+    },
+    "done": true
+  },
   "superbwarfare:recipes/misc/mp_443_blueprint": {
     "criteria": {
       "has_mp_443_blueprint": "2025-08-30 05:39:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-30 05:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-30 05:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-30 05:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-30 05:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-08-30 05:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-08-30 06:03:07 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/taser_blueprint": {
+    "criteria": {
+      "has_taser_blueprint": "2025-08-30 06:05:03 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-08-30 06:14:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-08-30 06:12:03 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/hunting_rifle_smithing": {
+    "criteria": {
+      "has_hunting_rifle_blueprint": "2025-08-30 06:03:12 +0000"
     },
     "done": true
   },
@@ -6061,9 +6130,75 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_true_sight": {
+    "criteria": {
+      "has_magic_scroll": "2025-08-30 06:04:24 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/epic_blueprint": {
+    "criteria": {
+      "0": "2025-08-30 06:03:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-30 05:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-08-30 05:54:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-30 06:03:07 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/taser_smithing": {
+    "criteria": {
+      "has_taser_blueprint": "2025-08-30 06:05:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-30 05:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-30 05:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-08-30 05:44:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_lectern": {
     "criteria": {
       "has_bookshelf": "2025-08-30 05:07:18 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/hunting_rifle_blueprint": {
+    "criteria": {
+      "has_hunting_rifle_blueprint": "2025-08-30 06:03:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-08-30 05:56:53 +0000"
     },
     "done": true
   },

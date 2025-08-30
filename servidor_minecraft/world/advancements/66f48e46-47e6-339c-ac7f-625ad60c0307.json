@@ -7012,9 +7012,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_polished_blackstone_brick_stairs_from_reinforced_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_polished_blackstone_bricks": "2025-08-30 06:12:14 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/steel_longbow": {
     "criteria": {
       "has_steel_ingot": "2025-08-30 05:16:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_block": "2025-08-30 06:12:14 +0000"
     },
     "done": true
   },
@@ -7027,6 +7039,12 @@
   "superbwarfare:recipes/misc/speedboat": {
     "criteria": {
       "has_m_2_hb": "2025-08-30 05:35:51 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-08-30 06:02:43 +0000"
     },
     "done": true
   },
@@ -7057,6 +7075,12 @@
   "superbwarfare:recipes/misc/rare_material_pack": {
     "criteria": {
       "has_steel_barrel": "2025-08-30 05:16:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_item": "2025-08-30 06:12:14 +0000"
     },
     "done": true
   },
@@ -7102,9 +7126,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_polished_blackstone_brick_slab_from_reinforced_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_polished_blackstone_bricks": "2025-08-30 06:12:14 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/steel_flanged_mace": {
     "criteria": {
       "has_steel_ingot": "2025-08-30 05:16:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-08-30 06:17:00 +0000"
     },
     "done": true
   },
@@ -7132,6 +7168,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_polished_blackstone_brick_wall_from_reinforced_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_reinforced_polished_blackstone_bricks": "2025-08-30 06:12:14 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/steel_quarterstaff": {
     "criteria": {
       "has_steel_ingot": "2025-08-30 05:16:00 +0000"
@@ -7141,6 +7183,12 @@
   "spartanweaponry:recipes/steel_tomahawk": {
     "criteria": {
       "has_steel_ingot": "2025-08-30 05:16:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-08-30 06:05:35 +0000"
     },
     "done": true
   },
@@ -7186,9 +7234,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_block": "2025-08-30 06:12:14 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/steel_javelin": {
     "criteria": {
       "has_steel_ingot": "2025-08-30 05:16:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/reinforced_polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_block": "2025-08-30 06:12:14 +0000"
     },
     "done": true
   },
