@@ -45,6 +45,7 @@
       "minecraft:lukewarm_ocean": "2025-08-26 20:46:46 +0000",
       "minecraft:stony_shore": "2025-08-26 20:49:11 +0000",
       "minecraft:grove": "2025-08-27 05:08:54 +0000",
+      "minecraft:jagged_peaks": "2025-08-30 03:50:33 +0000",
       "minecraft:forest": "2025-08-26 05:52:33 +0000",
       "minecraft:windswept_savanna": "2025-08-27 04:56:19 +0000",
       "minecraft:flower_forest": "2025-08-26 05:36:57 +0000",
@@ -6817,12 +6818,6 @@
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-08-30 03:37:57 +0000"
-    },
-    "done": true
-  },
   "superbwarfare:recipes/misc/taser_blueprint": {
     "criteria": {
       "has_taser_blueprint": "2025-08-30 03:29:03 +0000"
@@ -6835,15 +6830,21 @@
     },
     "done": true
   },
-  "superbwarfare:recipes/combat/m_1911_smithing": {
-    "criteria": {
-      "has_m_1911_blueprint": "2025-08-30 03:29:16 +0000"
-    },
-    "done": true
-  },
   "superbwarfare:recipes/combat/taser_smithing": {
     "criteria": {
       "has_taser_blueprint": "2025-08-30 03:29:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-08-30 03:29:15 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/m_1911_smithing": {
+    "criteria": {
+      "has_m_1911_blueprint": "2025-08-30 03:29:16 +0000"
     },
     "done": true
   },
@@ -6853,9 +6854,105 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "has_item": "2025-08-30 03:29:15 +0000"
+      "lava_bucket": "2025-08-30 03:37:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_cupidity": {
+    "criteria": {
+      "coded_trigger": "2025-08-30 03:50:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-08-30 03:51:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/basket": {
+    "criteria": {
+      "has_canvas": "2025-08-30 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-08-30 04:05:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/book_from_canvas": {
+    "criteria": {
+      "has_canvas": "2025-08-30 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/full_tatami_mat_from_halves": {
+    "criteria": {
+      "has_canvas": "2025-08-30 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/hanging_canvas_sign": {
+    "criteria": {
+      "has_canvas": "2025-08-30 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/canvas_rug": {
+    "criteria": {
+      "has_canvas": "2025-08-30 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tatami_block_from_full": {
+    "criteria": {
+      "has_canvas": "2025-08-30 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/full_tatami_mat": {
+    "criteria": {
+      "has_canvas": "2025-08-30 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/half_tatami_mat": {
+    "criteria": {
+      "has_canvas": "2025-08-30 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/hammer": {
+    "criteria": {
+      "0": "2025-08-30 04:08:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tatami": {
+    "criteria": {
+      "has_canvas": "2025-08-30 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/canvas_sign": {
+    "criteria": {
+      "has_canvas": "2025-08-30 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/painting_from_canvas": {
+    "criteria": {
+      "has_canvas": "2025-08-30 04:12:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/scaffolding_from_canvas": {
+    "criteria": {
+      "has_canvas": "2025-08-30 04:12:41 +0000"
     },
     "done": true
   },
