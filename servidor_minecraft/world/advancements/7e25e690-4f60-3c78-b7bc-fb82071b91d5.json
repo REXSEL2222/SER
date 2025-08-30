@@ -5694,7 +5694,103 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/bolt": {
+    "criteria": {
+      "has_feather": "2025-08-30 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_bolt": {
+    "criteria": {
+      "has_feather": "2025-08-30 04:00:13 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_bolt": {
+    "criteria": {
+      "has_feather": "2025-08-30 04:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-08-30 04:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-30 04:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-08-30 04:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-30 04:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-08-30 04:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-08-30 04:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-08-30 04:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-08-30 04:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-08-30 04:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-30 04:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-30 04:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-30 04:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-08-30 04:01:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-30 04:01:05 +0000"
     },
@@ -5703,6 +5799,30 @@
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-08-30 04:02:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-30 04:02:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-08-30 04:02:11 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/redstone/vehicle_assembling_table": {
+    "criteria": {
+      "has_smithing_table": "2025-08-30 04:03:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-08-30 04:04:51 +0000"
     },
     "done": true
   },
@@ -5730,39 +5850,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-08-30 04:01:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2025-08-30 04:01:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-08-30 04:01:05 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/steel_halberd": {
     "criteria": {
       "has_steel_ingot": "2025-08-30 04:04:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_button": {
-    "criteria": {
-      "has_stone": "2025-08-30 04:01:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
-    "criteria": {
-      "has_stone": "2025-08-30 04:01:05 +0000"
     },
     "done": true
   },
@@ -5790,12 +5880,6 @@
     },
     "done": true
   },
-  "superbwarfare:recipes/misc/rare_material_pack": {
-    "criteria": {
-      "has_steel_trigger": "2025-08-30 04:07:45 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/steel_parrying_dagger": {
     "criteria": {
       "has_steel_ingot": "2025-08-30 04:04:58 +0000"
@@ -5805,12 +5889,6 @@
   "spartanweaponry:recipes/steel_boomerang": {
     "criteria": {
       "has_steel_ingot": "2025-08-30 04:04:58 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/combat/steel_pipe": {
-    "criteria": {
-      "has_steel_barrel": "2025-08-30 04:08:04 +0000"
     },
     "done": true
   },
@@ -5826,12 +5904,6 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/bolt": {
-    "criteria": {
-      "has_feather": "2025-08-30 04:00:13 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/steel_rapier": {
     "criteria": {
       "has_steel_ingot": "2025-08-30 04:04:58 +0000"
@@ -5844,21 +5916,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/copper_bolt": {
-    "criteria": {
-      "has_feather": "2025-08-30 04:00:13 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/steel_flanged_mace": {
     "criteria": {
       "has_steel_ingot": "2025-08-30 04:04:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_stone": "2025-08-30 04:01:05 +0000"
     },
     "done": true
   },
@@ -5880,21 +5940,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/diamond_bolt": {
-    "criteria": {
-      "has_feather": "2025-08-30 04:00:13 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/steel_tomahawk": {
     "criteria": {
       "has_steel_ingot": "2025-08-30 04:04:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-08-30 04:04:51 +0000"
     },
     "done": true
   },
@@ -5904,27 +5952,9 @@
     },
     "done": true
   },
-  "superbwarfare:recipes/redstone/vehicle_assembling_table": {
-    "criteria": {
-      "has_smithing_table": "2025-08-30 04:03:21 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/steel_battle_hammer": {
     "criteria": {
       "has_steel_ingot": "2025-08-30 04:04:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stonecutter": {
-    "criteria": {
-      "has_stone": "2025-08-30 04:01:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone": {
-    "criteria": {
-      "has_stone": "2025-08-30 04:01:05 +0000"
     },
     "done": true
   },
@@ -5934,21 +5964,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_stone_slab": {
-    "criteria": {
-      "has_smooth_stone": "2025-08-30 04:02:11 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/steel_battleaxe": {
     "criteria": {
       "has_steel_ingot": "2025-08-30 04:04:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
-    "criteria": {
-      "has_smooth_stone": "2025-08-30 04:02:11 +0000"
     },
     "done": true
   },
@@ -5958,33 +5976,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-08-30 04:01:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-08-30 04:01:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-08-30 04:01:05 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/steel_javelin": {
     "criteria": {
       "has_steel_ingot": "2025-08-30 04:04:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-08-30 04:01:05 +0000"
     },
     "done": true
   },
@@ -6000,12 +5994,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
-    "criteria": {
-      "has_stone": "2025-08-30 04:01:05 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/steel_glaive": {
     "criteria": {
       "has_steel_ingot": "2025-08-30 04:04:58 +0000"
@@ -6015,6 +6003,18 @@
   "spartanweaponry:recipes/steel_greatsword": {
     "criteria": {
       "has_steel_ingot": "2025-08-30 04:04:58 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/rare_material_pack": {
+    "criteria": {
+      "has_steel_trigger": "2025-08-30 04:07:45 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/steel_pipe": {
+    "criteria": {
+      "has_steel_barrel": "2025-08-30 04:08:04 +0000"
     },
     "done": true
   },

@@ -6872,15 +6872,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/basket": {
-    "criteria": {
-      "has_canvas": "2025-08-30 04:12:41 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2025-08-30 04:05:54 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/hammer": {
+    "criteria": {
+      "0": "2025-08-30 04:08:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/basket": {
+    "criteria": {
+      "has_canvas": "2025-08-30 04:12:41 +0000"
     },
     "done": true
   },
@@ -6923,12 +6929,6 @@
   "farmersdelight:recipes/decorations/half_tatami_mat": {
     "criteria": {
       "has_canvas": "2025-08-30 04:12:41 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:main/hammer": {
-    "criteria": {
-      "0": "2025-08-30 04:08:11 +0000"
     },
     "done": true
   },
