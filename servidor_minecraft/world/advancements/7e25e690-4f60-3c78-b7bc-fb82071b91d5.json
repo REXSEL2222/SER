@@ -6019,6 +6019,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-08-30 04:33:33 +0000"
+    },
+    "done": true
+  },
   "superbwarfare:recipes/misc/large_battery_pack": {
     "criteria": {
       "has_copper_plate": "2025-08-30 04:41:31 +0000"
@@ -6028,12 +6034,6 @@
   "superbwarfare:recipes/misc/medium_battery_pack": {
     "criteria": {
       "has_copper_plate": "2025-08-30 04:41:31 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/use_cutting_board": {
-    "criteria": {
-      "cutting_board": "2025-08-30 04:33:33 +0000"
     },
     "done": true
   },
