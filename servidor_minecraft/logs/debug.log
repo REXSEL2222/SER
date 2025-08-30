@@ -4764,3 +4764,105 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [30Aug2025 05:25:19.405] [Server thread/DEBUG] [tombstone/]: A new grave of the player Eduardo171 was created at position [x:-1425, y:65, z:-360, dim:minecraft:overworld]
 [30Aug2025 05:25:19.419] [Server thread/INFO] [tombstone/]: The player Eduardo171 has successfully been saved
 [30Aug2025 05:25:53.565] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Aug2025 05:26:10.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported elikernomamahuev to EMILIOSIFUENTES]
+[30Aug2025 05:26:13.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> a
+[30Aug2025 05:26:19.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> me hubieras dicho
+[30Aug2025 05:26:22.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EMILIOSIFUENTES> XD
+[30Aug2025 05:26:27.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EMILIOSIFUENTES> devuelvete
+[30Aug2025 05:26:31.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> una poia
+[30Aug2025 05:26:36.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ya hay que hacer el trade
+[30Aug2025 05:26:58.035] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 05:26:58.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 05:27:04.744] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Aug2025 05:27:04.795] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Aug2025 05:27:04.852] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Aug2025 05:27:04.924] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Aug2025 05:27:04.962] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Aug2025 05:27:05.025] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Aug2025 05:27:05.063] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Aug2025 05:27:05.120] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Aug2025 05:27:05.348] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Aug2025 05:27:05.348] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Aug2025 05:27:06.059] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Aug2025 05:27:06.060] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Aug2025 05:27:07.006] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Aug2025 05:27:07.007] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Aug2025 05:27:15.866] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Aug2025 05:27:27.348] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Aug2025 05:27:27.405] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Aug2025 05:27:27.450] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Aug2025 05:27:27.507] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Aug2025 05:27:27.577] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Aug2025 05:27:33.447] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Aug2025 05:27:33.500] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Aug2025 05:27:33.583] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Aug2025 05:29:11.504] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Aug2025 05:29:13.481] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Aug2025 05:29:14.011] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Aug2025 05:29:14.012] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Aug2025 05:29:32.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EMILIOSIFUENTES> ahora si pide tp
+[30Aug2025 05:29:37.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> chinga tu madre
+[30Aug2025 05:29:46.499] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Aug2025 05:29:46.548] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Aug2025 05:29:46.898] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Aug2025 05:29:46.959] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Aug2025 05:29:47.103] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Aug2025 05:29:47.499] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Aug2025 05:29:47.548] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Aug2025 05:29:48.656] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Aug2025 05:29:53.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> no tengo
+[30Aug2025 05:29:54.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported elikernomamahuev to EMILIOSIFUENTES]
+[30Aug2025 05:30:09.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EMILIOSIFUENTES> peñesel asele tp al iker a mi
+[30Aug2025 05:30:19.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> ya
+[30Aug2025 05:30:48.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EMILIOSIFUENTES> deja ahi es mi minapvto
+[30Aug2025 05:30:53.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> era
+[30Aug2025 05:31:12.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EMILIOSIFUENTES> un buen vergazo te hara reflexionar
+[30Aug2025 05:31:17.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> a si?
+[30Aug2025 05:31:23.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EMILIOSIFUENTES> si
+[30Aug2025 05:31:40.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> aver pues
+[30Aug2025 05:31:49.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> cuantos diamantes eran?
+[30Aug2025 05:31:49.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EMILIOSIFUENTES> eran 20 verda
+[30Aug2025 05:31:54.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> eran 25
+[30Aug2025 05:31:58.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Aug2025 05:31:58.029] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Aug2025 05:32:00.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EMILIOSIFUENTES> na una posha te dije 22
+[30Aug2025 05:32:06.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> bueno 22, ya dale
+[30Aug2025 05:32:21.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> gracias pes
+[30Aug2025 05:32:26.429] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Aug2025 05:32:27.201] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Aug2025 05:32:45.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EMILIOSIFUENTES> sisi adios adios buen trato mi compañero
+[30Aug2025 05:33:36.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9788ms or 195 ticks behind
+[30Aug2025 05:34:18.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> dijo buenas noches el miguel
+[30Aug2025 05:34:54.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Enchanter]
+[30Aug2025 05:35:14.614] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Aug2025 05:35:15.201] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Aug2025 05:35:15.918] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Aug2025 05:35:16.412] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Aug2025 05:35:17.119] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Aug2025 05:35:17.121] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Aug2025 05:35:18.404] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Aug2025 05:35:19.518] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Aug2025 05:35:19.860] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Aug2025 05:35:23.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> como quiera
+[30Aug2025 05:36:03.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> que sea media hora y ya
+[30Aug2025 05:36:09.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> digo
+[30Aug2025 05:36:11.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> otra media hora
+[30Aug2025 05:36:20.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has reached the goal [Dinner's Served!]
+[30Aug2025 05:36:23.110] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Aug2025 05:36:23.110] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Aug2025 05:36:23.823] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Aug2025 05:36:23.856] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Aug2025 05:36:23.908] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Aug2025 05:36:23.957] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Aug2025 05:36:24.009] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Aug2025 05:36:24.059] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Aug2025 05:36:24.111] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Aug2025 05:36:24.157] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Aug2025 05:36:24.209] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Aug2025 05:36:24.258] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[30Aug2025 05:36:26.458] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Aug2025 05:36:26.458] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[30Aug2025 05:36:31.215] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Aug2025 05:36:32.582] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Aug2025 05:36:32.751] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[30Aug2025 05:36:33.030] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!

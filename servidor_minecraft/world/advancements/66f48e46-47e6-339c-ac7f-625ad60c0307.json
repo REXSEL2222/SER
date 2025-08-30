@@ -7102,6 +7102,18 @@
     },
     "done": true
   },
+  "superbwarfare:recipes/misc/large_battery_pack": {
+    "criteria": {
+      "has_copper_plate": "2025-08-30 05:28:31 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/medium_battery_pack": {
+    "criteria": {
+      "has_copper_plate": "2025-08-30 05:28:31 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/steel_katana": {
     "criteria": {
       "has_steel_ingot": "2025-08-30 05:16:00 +0000"
@@ -7183,6 +7195,18 @@
   "spartanweaponry:recipes/steel_dagger": {
     "criteria": {
       "has_steel_ingot": "2025-08-30 05:16:00 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/small_battery_pack": {
+    "criteria": {
+      "has_copper_plate": "2025-08-30 05:28:31 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-08-30 05:26:34 +0000"
     },
     "done": true
   },
