@@ -6046,21 +6046,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-08-30 05:07:18 +0000"
+    },
+    "done": true
+  },
   "superbwarfare:recipes/combat/mp_443_smithing": {
     "criteria": {
       "has_mp_443_blueprint": "2025-08-30 05:39:14 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/roast_chicken_block": {
-    "criteria": {
-      "has_cooked_chicken": "2025-08-30 05:56:53 +0000"
-    },
-    "done": true
-  },
   "superbwarfare:recipes/misc/mp_443_blueprint": {
     "criteria": {
       "has_mp_443_blueprint": "2025-08-30 05:39:14 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/common_blueprint": {
+    "criteria": {
+      "0": "2025-08-30 05:39:14 +0000"
     },
     "done": true
   },
@@ -6094,75 +6100,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
-    "criteria": {
-      "has_coast_armor_trim_smithing_template": "2025-08-30 06:03:07 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/taser_blueprint": {
-    "criteria": {
-      "has_taser_blueprint": "2025-08-30 06:05:03 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crocodile": {
-    "criteria": {
-      "killed_by": "2025-08-30 06:14:32 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-08-30 06:12:03 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/combat/hunting_rifle_smithing": {
-    "criteria": {
-      "has_hunting_rifle_blueprint": "2025-08-30 06:03:12 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:main/common_blueprint": {
-    "criteria": {
-      "0": "2025-08-30 05:39:14 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_true_sight": {
-    "criteria": {
-      "has_magic_scroll": "2025-08-30 06:04:24 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:main/epic_blueprint": {
-    "criteria": {
-      "0": "2025-08-30 06:03:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-30 05:44:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-08-30 05:54:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-08-30 06:03:07 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/combat/taser_smithing": {
-    "criteria": {
-      "has_taser_blueprint": "2025-08-30 06:05:03 +0000"
     },
     "done": true
   },
@@ -6184,9 +6124,45 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_lectern": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "has_bookshelf": "2025-08-30 05:07:18 +0000"
+      "enchanted_item": "2025-08-30 05:54:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-08-30 05:56:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-08-30 05:56:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-08-30 06:03:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-30 06:03:07 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/hunting_rifle_smithing": {
+    "criteria": {
+      "has_hunting_rifle_blueprint": "2025-08-30 06:03:12 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/epic_blueprint": {
+    "criteria": {
+      "0": "2025-08-30 06:03:12 +0000"
     },
     "done": true
   },
@@ -6196,9 +6172,33 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/chicken_sandwich": {
+  "tombstone:adventure/use_true_sight": {
     "criteria": {
-      "has_cooked_chicken": "2025-08-30 05:56:53 +0000"
+      "has_magic_scroll": "2025-08-30 06:04:24 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/taser_blueprint": {
+    "criteria": {
+      "has_taser_blueprint": "2025-08-30 06:05:03 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/taser_smithing": {
+    "criteria": {
+      "has_taser_blueprint": "2025-08-30 06:05:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-08-30 06:12:03 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-08-30 06:14:32 +0000"
     },
     "done": true
   },
