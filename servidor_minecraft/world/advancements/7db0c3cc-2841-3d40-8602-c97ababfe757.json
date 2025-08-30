@@ -5816,5 +5816,35 @@
     },
     "done": true
   },
+  "superbwarfare:recipes/misc/cemented_carbide_trigger": {
+    "criteria": {
+      "has_cemented_carbide_ingot": "2025-08-30 04:32:32 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/cemented_carbide_barrel": {
+    "criteria": {
+      "has_cemented_carbide_ingot": "2025-08-30 04:32:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-08-30 04:41:29 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/cemented_carbide_spring": {
+    "criteria": {
+      "has_cemented_carbide_ingot": "2025-08-30 04:32:32 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/cemented_carbide_action": {
+    "criteria": {
+      "has_cemented_carbide_ingot": "2025-08-30 04:32:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

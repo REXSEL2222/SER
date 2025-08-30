@@ -47,6 +47,7 @@
       "minecraft:stony_shore": "2025-08-26 20:49:11 +0000",
       "minecraft:grove": "2025-08-27 05:08:54 +0000",
       "minecraft:jagged_peaks": "2025-08-30 03:50:33 +0000",
+      "minecraft:cold_ocean": "2025-08-30 04:35:43 +0000",
       "minecraft:forest": "2025-08-26 05:52:33 +0000",
       "minecraft:windswept_savanna": "2025-08-27 04:56:19 +0000",
       "minecraft:flower_forest": "2025-08-26 05:36:57 +0000",
@@ -6966,6 +6967,30 @@
   "tombstone:adventure/enchant_voodoo_poppet": {
     "criteria": {
       "has_enchanted_voodoo_poppet": "2025-08-30 04:25:36 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/cemented_carbide_trigger": {
+    "criteria": {
+      "has_cemented_carbide_ingot": "2025-08-30 04:34:17 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/cemented_carbide_barrel": {
+    "criteria": {
+      "has_cemented_carbide_ingot": "2025-08-30 04:34:17 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/cemented_carbide_spring": {
+    "criteria": {
+      "has_cemented_carbide_ingot": "2025-08-30 04:34:17 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/cemented_carbide_action": {
+    "criteria": {
+      "has_cemented_carbide_ingot": "2025-08-30 04:34:17 +0000"
     },
     "done": true
   },

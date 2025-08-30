@@ -37,6 +37,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-08-30 04:32:31 +0000",
+      "minecraft:taiga": "2025-08-30 04:38:45 +0000",
       "minecraft:birch_forest": "2025-08-30 04:14:26 +0000",
       "minecraft:beach": "2025-08-26 05:55:45 +0000",
       "minecraft:dark_forest": "2025-08-30 04:16:00 +0000",
@@ -47,6 +49,7 @@
       "minecraft:forest": "2025-08-26 06:21:29 +0000",
       "minecraft:jungle": "2025-08-26 21:31:28 +0000",
       "minecraft:ocean": "2025-08-26 21:57:13 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-08-30 04:33:57 +0000",
       "minecraft:flower_forest": "2025-08-26 05:47:50 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-30 04:27:00 +0000",
       "minecraft:savanna": "2025-08-26 06:01:03 +0000",
@@ -1172,6 +1175,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-08-30 04:35:11 +0000",
       "cooked_mutton": "2025-08-30 03:33:39 +0000",
       "cooked_beef": "2025-08-26 06:18:33 +0000",
       "beef": "2025-08-26 06:00:55 +0000",
@@ -4934,6 +4938,18 @@
   "tombstone:adventure/prevent_death_voodoo_poppet": {
     "criteria": {
       "coded_trigger": "2025-08-30 04:23:42 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "killed_by": "2025-08-30 04:36:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-30 04:35:25 +0000"
     },
     "done": true
   },
