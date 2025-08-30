@@ -1488,6 +1488,7 @@
       "minecraft:spider": "2025-08-26 20:36:16 +0000",
       "minecraft:piglin_brute": "2025-08-27 06:00:03 +0000",
       "minecraft:creeper": "2025-08-26 05:59:09 +0000",
+      "minecraft:witch": "2025-08-30 03:26:24 +0000",
       "minecraft:piglin": "2025-08-27 05:59:35 +0000",
       "minecraft:enderman": "2025-08-27 04:05:16 +0000",
       "minecraft:zombie": "2025-08-26 05:59:15 +0000",
@@ -5650,6 +5651,108 @@
   "securitycraft:recipes/decorations/reinforced_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-08-30 02:59:27 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/armor_plate": {
+    "criteria": {
+      "has_string": "2025-08-30 03:13:30 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/medical_kit": {
+    "criteria": {
+      "has_string": "2025-08-30 03:13:30 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/hk_416_blueprint": {
+    "criteria": {
+      "has_hk_416_blueprint": "2025-08-30 03:22:48 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/m_2_hb_blueprint": {
+    "criteria": {
+      "has_m_2_hb_blueprint": "2025-08-30 03:22:49 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/blueprint": {
+    "criteria": {
+      "0": "2025-08-30 03:22:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-08-30 03:22:29 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/mosin_nagant_blueprint": {
+    "criteria": {
+      "has_mosin_nagant_blueprint": "2025-08-30 03:22:48 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/vector_smithing": {
+    "criteria": {
+      "has_vector_blueprint": "2025-08-30 03:22:48 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/vector_blueprint": {
+    "criteria": {
+      "has_vector_blueprint": "2025-08-30 03:22:48 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/mosin_nagant_smithing": {
+    "criteria": {
+      "has_mosin_nagant_blueprint": "2025-08-30 03:22:48 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-08-30 03:21:31 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/epic_blueprint": {
+    "criteria": {
+      "0": "2025-08-30 03:22:48 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/rare_blueprint": {
+    "criteria": {
+      "0": "2025-08-30 03:22:48 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/qbz_95_blueprint": {
+    "criteria": {
+      "has_qbz_95_blueprint": "2025-08-30 03:22:49 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/hk_416_smithing": {
+    "criteria": {
+      "has_hk_416_blueprint": "2025-08-30 03:22:48 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/m_2_hb_smithing": {
+    "criteria": {
+      "has_m_2_hb_blueprint": "2025-08-30 03:22:49 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/qbz_95_smithing": {
+    "criteria": {
+      "has_qbz_95_blueprint": "2025-08-30 03:22:49 +0000"
     },
     "done": true
   },

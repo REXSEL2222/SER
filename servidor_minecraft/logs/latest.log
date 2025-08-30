@@ -1084,3 +1084,58 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [30Aug2025 02:59:01.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
 [30Aug2025 02:59:01.501] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
 [30Aug2025 03:03:52.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Rotten to the Core]
+[30Aug2025 03:12:01.692] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.21.34.197:43021] logged in with entity id 6293 at (-1438.1893737035575, 69.9375, -354.33652417932296)
+[30Aug2025 03:12:01.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[30Aug2025 03:12:01.836] [Server thread/INFO] [Jade/]: Syncing config to elikernomamahuev (7e25e690-4f60-3c78-b7bc-fb82071b91d5)
+[30Aug2025 03:12:03.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected whitespace to end one argument, but found trailing data
+[30Aug2025 03:12:03.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...nomamahuev/ga/gamemode survival elikernomamahuev<--[HERE]
+[30Aug2025 03:12:07.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected whitespace to end one argument, but found trailing data
+[30Aug2025 03:12:07.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...nomamahuev/ga/gamemode survival elikernomamahuev<--[HERE]
+[30Aug2025 03:12:10.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected whitespace to end one argument, but found trailing data
+[30Aug2025 03:12:10.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...nomamahuev/ga/gamemode survival elikernomamahuev<--[HERE]
+[30Aug2025 03:12:11.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected whitespace to end one argument, but found trailing data
+[30Aug2025 03:12:11.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...nomamahuev/ga/gamemode survival elikernomamahuev<--[HERE]
+[30Aug2025 03:12:12.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected whitespace to end one argument, but found trailing data
+[30Aug2025 03:12:12.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...nomamahuev/ga/gamemode survival elikernomamahuev<--[HERE]
+[30Aug2025 03:12:16.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set elikernomamahuev's game mode to Survival Mode
+[30Aug2025 03:12:22.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Kicked elikernomamahuev: Kicked by an operator]
+[30Aug2025 03:12:22.479] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Kicked by an operator
+[30Aug2025 03:12:22.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[30Aug2025 03:12:45.538] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.21.34.197:33189] logged in with entity id 6783 at (-1438.1893737035575, 69.9375, -354.33652417932296)
+[30Aug2025 03:12:45.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[30Aug2025 03:12:45.710] [Server thread/INFO] [Jade/]: Syncing config to elikernomamahuev (7e25e690-4f60-3c78-b7bc-fb82071b91d5)
+[30Aug2025 03:12:51.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported elikernomamahuev to rexsel]
+[30Aug2025 03:13:02.031] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Disconnected
+[30Aug2025 03:13:02.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
+[30Aug2025 03:14:47.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Eduardo171: puto el que lo lea
+[30Aug2025 03:14:47.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to elikernomamahuev: puto el que lo lea
+[30Aug2025 03:14:56.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Quickly Applied]
+[30Aug2025 03:15:04.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Vanishing]
+[30Aug2025 03:15:59.947] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.204.20.180:52747] logged in with entity id 8677 at (-1443.6858628955833, 70.0, -342.4163595002373)
+[30Aug2025 03:16:00.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
+[30Aug2025 03:16:00.100] [Server thread/INFO] [Jade/]: Syncing config to rexsel (66f48e46-47e6-339c-ac7f-625ad60c0307)
+[30Aug2025 03:16:34.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Disconnected
+[30Aug2025 03:16:34.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
+[30Aug2025 03:18:38.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev moved too quickly! 2.264807133619115,-2.0,9.655654170596968
+[30Aug2025 03:19:58.746] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EMILIOSIFUENTES[/127.187.194.5:60871] logged in with entity id 11034 at (-445.17220837354495, 59.0, 559.7451767603106)
+[30Aug2025 03:19:58.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES joined the game
+[30Aug2025 03:19:58.809] [Server thread/INFO] [Jade/]: Syncing config to EMILIOSIFUENTES (718328ac-5ecb-3187-a56d-9301a7dd78ea)
+[30Aug2025 03:20:14.254] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@46b83d7c[id=<null>,name=Eduardo171,properties={},legacy=false] (/127.217.102.85:40959) lost connection: Disconnected
+[30Aug2025 03:20:23.369] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.217.102.85:48349] logged in with entity id 11507 at (-1534.7915257256839, 62.0, 352.6843448661757)
+[30Aug2025 03:20:23.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
+[30Aug2025 03:20:23.514] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
+[30Aug2025 03:20:48.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[30Aug2025 03:21:07.371] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3421ms or 68 ticks behind
+[30Aug2025 03:21:31.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[30Aug2025 03:22:05.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported Eduardo171 to rexsel]
+[30Aug2025 03:22:21.306] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2706ms or 54 ticks behind
+[30Aug2025 03:22:48.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Things are different now]
+[30Aug2025 03:22:48.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Rare]
+[30Aug2025 03:22:48.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [Epic]
+[30Aug2025 03:27:27.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES fell from a high place
+[30Aug2025 03:27:27.220] [Server thread/INFO] [tombstone/]: The player EMILIOSIFUENTES has successfully been saved
+[30Aug2025 03:27:31.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to Eduardo171]
+[30Aug2025 03:27:47.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2820ms or 56 ticks behind
+[30Aug2025 03:29:03.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Common]
+[30Aug2025 03:29:21.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Splintering II]
+[30Aug2025 03:29:24.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [A Flaming Sword]
