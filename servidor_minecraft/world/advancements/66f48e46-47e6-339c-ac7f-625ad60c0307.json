@@ -7024,6 +7024,12 @@
     },
     "done": true
   },
+  "superbwarfare:recipes/misc/speedboat": {
+    "criteria": {
+      "has_m_2_hb": "2025-08-30 05:35:51 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/steel_scythe": {
     "criteria": {
       "has_steel_ingot": "2025-08-30 05:16:00 +0000"

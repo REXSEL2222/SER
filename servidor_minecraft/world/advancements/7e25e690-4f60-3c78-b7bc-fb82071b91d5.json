@@ -6043,6 +6043,24 @@
     },
     "done": true
   },
+  "superbwarfare:recipes/combat/mp_443_smithing": {
+    "criteria": {
+      "has_mp_443_blueprint": "2025-08-30 05:39:14 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/mp_443_blueprint": {
+    "criteria": {
+      "has_mp_443_blueprint": "2025-08-30 05:39:14 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/common_blueprint": {
+    "criteria": {
+      "0": "2025-08-30 05:39:14 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_lectern": {
     "criteria": {
       "has_bookshelf": "2025-08-30 05:07:18 +0000"

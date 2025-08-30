@@ -1139,3 +1139,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [30Aug2025 05:36:09.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> digo
 [30Aug2025 05:36:11.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> otra media hora
 [30Aug2025 05:36:20.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has reached the goal [Dinner's Served!]
+[30Aug2025 05:36:53.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[30Aug2025 05:39:14.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Common]
+[30Aug2025 05:40:47.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> pexsel, si escuchaste que otra media hora mas=?
+[30Aug2025 05:43:59.485] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Disconnected
+[30Aug2025 05:43:59.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
+[30Aug2025 05:45:57.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> pito
