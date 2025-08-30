@@ -1083,3 +1083,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [30Aug2025 02:59:01.294] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.217.102.85:53199] logged in with entity id 3008 at (-1436.3730688184332, 71.25220334025373, -350.1438255895907)
 [30Aug2025 02:59:01.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
 [30Aug2025 02:59:01.501] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
+[30Aug2025 03:03:52.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel has made the advancement [Rotten to the Core]
