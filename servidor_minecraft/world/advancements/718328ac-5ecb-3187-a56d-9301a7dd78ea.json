@@ -4954,15 +4954,33 @@
     },
     "done": true
   },
+  "superbwarfare:recipes/combat/mp_443_smithing": {
+    "criteria": {
+      "has_mp_443_blueprint": "2025-08-30 05:21:48 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "cabbage_seeds": "2025-08-30 05:06:18 +0000"
     },
     "done": true
   },
+  "superbwarfare:recipes/misc/mp_443_blueprint": {
+    "criteria": {
+      "has_mp_443_blueprint": "2025-08-30 05:21:48 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/dumplings": {
     "criteria": {
       "has_any_ingredient": "2025-08-30 05:06:18 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/common_blueprint": {
+    "criteria": {
+      "0": "2025-08-30 05:21:48 +0000"
     },
     "done": true
   },
@@ -4999,6 +5017,12 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-08-30 05:09:23 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-08-30 05:15:18 +0000"
     },
     "done": true
   },
