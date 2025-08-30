@@ -1,15 +1,15 @@
-[30Aug2025 06:18:39.821] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[30Aug2025 06:18:39.828] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[30Aug2025 06:18:40.990] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[30Aug2025 06:18:41.069] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SER/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[30Aug2025 06:18:41.527] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SER/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[30Aug2025 06:18:41.528] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SER/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[30Aug2025 06:18:41.531] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SER/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[30Aug2025 06:18:41.533] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SER/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[30Aug2025 06:18:41.772] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
-[30Aug2025 06:18:44.807] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[30Aug2025 06:18:44.914] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[30Aug2025 06:18:45.243] [main/INFO] [Puzzles Lib/]: Loading 27 mods:
+[30Aug2025 06:21:36.768] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[30Aug2025 06:21:36.772] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[30Aug2025 06:21:37.909] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[30Aug2025 06:21:37.987] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SER/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[30Aug2025 06:21:38.442] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SER/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[30Aug2025 06:21:38.444] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SER/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[30Aug2025 06:21:38.445] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SER/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[30Aug2025 06:21:38.447] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SER/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[30Aug2025 06:21:38.698] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
+[30Aug2025 06:21:42.034] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[30Aug2025 06:21:42.168] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[30Aug2025 06:21:42.436] [main/INFO] [Puzzles Lib/]: Loading 27 mods:
 	- alexsmobs 1.22.9
 	- butcher 3.6.1
 	- citadel 2.6.1
@@ -37,25 +37,25 @@
 	- spartanweaponry 3.1.3
 	- superbwarfare 0.8.7
 	- tombstone 9.0.8
-[30Aug2025 06:18:45.256] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[30Aug2025 06:18:47.430] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[30Aug2025 06:19:02.063] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[30Aug2025 06:19:02.203] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
-[30Aug2025 06:19:03.943] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
-[30Aug2025 06:19:03.946] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
-[30Aug2025 06:19:03.947] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
-[30Aug2025 06:19:05.989] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for pickupnotifier:main
-[30Aug2025 06:19:06.554] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[30Aug2025 06:19:07.000] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[30Aug2025 06:19:07.001] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[30Aug2025 06:19:12.225] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[30Aug2025 06:19:12.230] [Thread-2/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[30Aug2025 06:19:12.235] [Thread-2/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[30Aug2025 06:19:12.610] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
-[30Aug2025 06:19:12.921] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
-[30Aug2025 06:19:13.050] [modloading-worker-0/INFO] [com.atsuishio.superbwarfare.Mod/]: This Mod used to be made by MCreator!
-[30Aug2025 06:19:13.194] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[30Aug2025 06:19:13.628] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[30Aug2025 06:21:42.447] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[30Aug2025 06:21:44.735] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[30Aug2025 06:21:59.562] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[30Aug2025 06:21:59.738] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[30Aug2025 06:22:01.547] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[30Aug2025 06:22:01.548] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 11
+[30Aug2025 06:22:01.549] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 11 has been initalized!
+[30Aug2025 06:22:03.271] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for pickupnotifier:main
+[30Aug2025 06:22:03.557] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[30Aug2025 06:22:03.940] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[30Aug2025 06:22:03.941] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[30Aug2025 06:22:09.298] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[30Aug2025 06:22:09.302] [Thread-2/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[30Aug2025 06:22:09.309] [Thread-2/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[30Aug2025 06:22:09.656] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[30Aug2025 06:22:09.988] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[30Aug2025 06:22:10.169] [modloading-worker-0/INFO] [com.atsuishio.superbwarfare.Mod/]: This Mod used to be made by MCreator!
+[30Aug2025 06:22:10.309] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[30Aug2025 06:22:10.672] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -70,22 +70,22 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[30Aug2025 06:19:13.631] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[30Aug2025 06:19:13.907] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[30Aug2025 06:19:13.968] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[30Aug2025 06:19:13.983] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[30Aug2025 06:19:13.989] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[30Aug2025 06:19:13.989] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
-[30Aug2025 06:19:13.992] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[30Aug2025 06:19:14.003] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[30Aug2025 06:19:14.005] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.atsuishio.superbwarfare.compat.jade.SbwJadePlugin
-[30Aug2025 06:19:14.009] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 9.0.8 Target: null
-[30Aug2025 06:19:14.010] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pickupnotifier] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/pickupnotifier.json
-[30Aug2025 06:19:14.032] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pickupnotifier] Found status: UP_TO_DATE Current: 8.0.0 Target: null
-[30Aug2025 06:19:14.033] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[30Aug2025 06:19:14.048] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.33 Target: null
-[30Aug2025 06:19:14.049] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[30Aug2025 06:19:14.078] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[30Aug2025 06:22:10.673] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[30Aug2025 06:22:11.025] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[30Aug2025 06:22:11.050] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
+[30Aug2025 06:22:11.055] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[30Aug2025 06:22:11.083] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 9.0.8 Target: null
+[30Aug2025 06:22:11.083] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pickupnotifier] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/pickupnotifier.json
+[30Aug2025 06:22:11.097] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pickupnotifier] Found status: UP_TO_DATE Current: 8.0.0 Target: null
+[30Aug2025 06:22:11.098] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[30Aug2025 06:22:11.108] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[30Aug2025 06:22:11.117] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.33 Target: null
+[30Aug2025 06:22:11.118] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[30Aug2025 06:22:11.119] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[30Aug2025 06:22:11.122] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[30Aug2025 06:22:11.128] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[30Aug2025 06:22:11.132] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.atsuishio.superbwarfare.compat.jade.SbwJadePlugin
+[30Aug2025 06:22:11.156] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -100,23 +100,23 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[30Aug2025 06:19:14.078] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[30Aug2025 06:19:14.096] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
-[30Aug2025 06:19:14.097] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[30Aug2025 06:19:14.345] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[30Aug2025 06:19:21.286] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[30Aug2025 06:19:25.230] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SER/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23149!/assets/.mcassetsroot' uses unexpected schema
-[30Aug2025 06:19:25.232] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SER/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23149!/data/.mcassetsroot' uses unexpected schema
-[30Aug2025 06:19:27.932] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
-[30Aug2025 06:19:27.982] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[30Aug2025 06:19:28.522] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag nethersdelight:tools/machetes as it is missing following references: nethersdelight:iron_machete (from butcher-3.6.1-forge-1.20.1 (1).jar), 
+[30Aug2025 06:22:11.160] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[30Aug2025 06:22:11.176] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[30Aug2025 06:22:11.177] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[30Aug2025 06:22:11.412] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[30Aug2025 06:22:18.203] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[30Aug2025 06:22:22.832] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SER/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23149!/assets/.mcassetsroot' uses unexpected schema
+[30Aug2025 06:22:22.834] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SER/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23149!/data/.mcassetsroot' uses unexpected schema
+[30Aug2025 06:22:25.428] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
+[30Aug2025 06:22:25.486] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[30Aug2025 06:22:25.807] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag nethersdelight:tools/machetes as it is missing following references: nethersdelight:iron_machete (from butcher-3.6.1-forge-1.20.1 (1).jar), 
 	nethersdelight:golden_machete (from butcher-3.6.1-forge-1.20.1 (1).jar), 
 	nethersdelight:diamond_machete (from butcher-3.6.1-forge-1.20.1 (1).jar), 
 	nethersdelight:netherite_machete (from butcher-3.6.1-forge-1.20.1 (1).jar)
-[30Aug2025 06:19:28.524] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag nethersdelight:tools/hunting_tools as it is missing following references: #nethersdelight:tools/machetes (from butcher-3.6.1-forge-1.20.1 (1).jar)
-[30Aug2025 06:19:28.530] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag c:blood_bottle as it is missing following references: #forge:blood_bottle (from butcher-3.6.1-forge-1.20.1 (1).jar)
-[30Aug2025 06:19:28.531] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:blood_bottle as it is missing following references: #c:blood_bottle (from butcher-3.6.1-forge-1.20.1 (1).jar)
-[30Aug2025 06:19:29.458] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:superbwarfare:grant_manual
+[30Aug2025 06:22:25.808] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag nethersdelight:tools/hunting_tools as it is missing following references: #nethersdelight:tools/machetes (from butcher-3.6.1-forge-1.20.1 (1).jar)
+[30Aug2025 06:22:25.815] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag c:blood_bottle as it is missing following references: #forge:blood_bottle (from butcher-3.6.1-forge-1.20.1 (1).jar)
+[30Aug2025 06:22:25.815] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag forge:blood_bottle as it is missing following references: #c:blood_bottle (from butcher-3.6.1-forge-1.20.1 (1).jar)
+[30Aug2025 06:22:26.667] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:superbwarfare:grant_manual
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -168,15 +168,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[30Aug2025 06:19:29.632] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
-[30Aug2025 06:19:29.673] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
-[30Aug2025 06:19:29.822] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
-[30Aug2025 06:19:31.152] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[1]: Parameters [<parameter minecraft:origin>] are not provided in this context
-[30Aug2025 06:19:31.174] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
-[30Aug2025 06:19:31.174] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
-[30Aug2025 06:19:31.209] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
-[30Aug2025 06:19:31.209] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
-[30Aug2025 06:19:31.217] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createwitherbonerecipe
+[30Aug2025 06:22:26.814] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[30Aug2025 06:22:26.831] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[30Aug2025 06:22:26.927] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[30Aug2025 06:22:27.830] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[1]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[30Aug2025 06:22:27.858] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[30Aug2025 06:22:27.860] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_blasting_electrum_weapons as it's serializer returned null
+[30Aug2025 06:22:27.906] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[30Aug2025 06:22:27.907] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_smelting_platinum_weapons as it's serializer returned null
+[30Aug2025 06:22:27.914] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createwitherbonerecipe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:milling'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -205,7 +205,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Aug2025 06:19:31.237] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifeknapping
+[30Aug2025 06:22:27.945] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifeknapping
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:knapping'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -234,9 +234,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Aug2025 06:19:31.247] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
-[30Aug2025 06:19:31.247] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
-[30Aug2025 06:19:31.260] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:plierknapping
+[30Aug2025 06:22:27.954] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[30Aug2025 06:22:27.956] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_blasting_aluminum_weapons as it's serializer returned null
+[30Aug2025 06:22:27.974] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:plierknapping
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:knapping'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -265,7 +265,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Aug2025 06:19:31.264] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createhoofrecipe
+[30Aug2025 06:22:27.982] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createhoofrecipe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:milling'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -294,15 +294,15 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Aug2025 06:19:31.343] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
-[30Aug2025 06:19:31.344] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
-[30Aug2025 06:19:31.366] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
-[30Aug2025 06:19:31.366] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
-[30Aug2025 06:19:31.446] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
-[30Aug2025 06:19:31.446] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
-[30Aug2025 06:19:31.447] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
-[30Aug2025 06:19:31.447] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
-[30Aug2025 06:19:31.478] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createwishbonerecipe
+[30Aug2025 06:22:28.079] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[30Aug2025 06:22:28.079] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_smelting_invar_weapons as it's serializer returned null
+[30Aug2025 06:22:28.095] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[30Aug2025 06:22:28.096] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_smelting_constantan_weapons as it's serializer returned null
+[30Aug2025 06:22:28.155] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[30Aug2025 06:22:28.156] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_smelting_nickel_weapons as it's serializer returned null
+[30Aug2025 06:22:28.156] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/electrum" Skipping...
+[30Aug2025 06:22:28.157] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:electrum_nugget_from_smelting_electrum_weapons as it's serializer returned null
+[30Aug2025 06:22:28.197] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createwishbonerecipe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:milling'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -331,7 +331,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Aug2025 06:19:31.512] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:plierjawrecipe
+[30Aug2025 06:22:28.241] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:plierjawrecipe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:casting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -360,7 +360,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:cas
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Aug2025 06:19:31.530] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:cleaverblade
+[30Aug2025 06:22:28.256] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:cleaverblade
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:casting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -389,7 +389,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:cas
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Aug2025 06:19:31.532] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifecrafting
+[30Aug2025 06:22:28.258] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifecrafting
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:advanced_shaped_crafting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -418,7 +418,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Aug2025 06:19:31.549] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:fireskinningknifemold
+[30Aug2025 06:22:28.278] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:fireskinningknifemold
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:heating'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -447,7 +447,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:hea
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Aug2025 06:19:31.564] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:plieranviltfc
+[30Aug2025 06:22:28.291] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:plieranviltfc
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:anvil'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -476,7 +476,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:anv
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Aug2025 06:19:31.576] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:neoforgeguiderecipe
+[30Aug2025 06:22:28.305] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:neoforgeguiderecipe
 com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 	at net.minecraft.util.GsonHelper.m_13906_(GsonHelper.java:127) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:185) ~[forge-1.20.1-47.3.7-universal.jar%23154!/:?]
@@ -509,11 +509,11 @@ com.google.gson.JsonSyntaxException: Missing item, expected to find a string
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Aug2025 06:19:31.640] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
-[30Aug2025 06:19:31.641] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
-[30Aug2025 06:19:31.646] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
-[30Aug2025 06:19:31.646] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
-[30Aug2025 06:19:31.666] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifebladerecipe
+[30Aug2025 06:22:28.363] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/platinum" Skipping...
+[30Aug2025 06:22:28.364] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:platinum_nugget_from_blasting_platinum_weapons as it's serializer returned null
+[30Aug2025 06:22:28.368] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/constantan" Skipping...
+[30Aug2025 06:22:28.369] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:constantan_nugget_from_blasting_constantan_weapons as it's serializer returned null
+[30Aug2025 06:22:28.387] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifebladerecipe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:casting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -542,7 +542,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:cas
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Aug2025 06:19:31.738] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe superbwarfare:superb_warfare_manual_crafting
+[30Aug2025 06:22:28.420] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe superbwarfare:superb_warfare_manual_crafting
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchouli:shapeless_book_recipe'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -571,7 +571,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'patchou
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Aug2025 06:19:31.754] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:forgeguiderecipe
+[30Aug2025 06:22:28.438] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:forgeguiderecipe
 com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23154!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23154!/:?]
@@ -604,7 +604,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Aug2025 06:19:31.771] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:crushedflowersrecipe
+[30Aug2025 06:22:28.455] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:crushedflowersrecipe
 com.google.gson.JsonSyntaxException: Unknown item 'butcher:pestleandmortar'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -642,7 +642,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'butcher:pestleandmortar'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Aug2025 06:19:31.794] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createwetspongerecipe
+[30Aug2025 06:22:28.480] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createwetspongerecipe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:splashing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -671,7 +671,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Aug2025 06:19:31.816] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:ironcleaveranviltfc
+[30Aug2025 06:22:28.495] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:ironcleaveranviltfc
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:anvil'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -700,9 +700,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:anv
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Aug2025 06:19:31.831] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
-[30Aug2025 06:19:31.832] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
-[30Aug2025 06:19:31.835] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createwishbonerecipe_2
+[30Aug2025 06:22:28.509] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/nickel" Skipping...
+[30Aug2025 06:22:28.509] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:nickel_nugget_from_blasting_nickel_weapons as it's serializer returned null
+[30Aug2025 06:22:28.512] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createwishbonerecipe_2
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:milling'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -731,7 +731,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Aug2025 06:19:31.839] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createwetragrecipe
+[30Aug2025 06:22:28.514] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:createwetragrecipe
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:splashing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -760,9 +760,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Aug2025 06:19:31.855] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
-[30Aug2025 06:19:31.856] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
-[30Aug2025 06:19:31.866] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:firecleavermold
+[30Aug2025 06:22:28.520] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/invar" Skipping...
+[30Aug2025 06:22:28.521] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:invar_nugget_from_blasting_invar_weapons as it's serializer returned null
+[30Aug2025 06:22:28.533] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:firecleavermold
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:heating'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -791,7 +791,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:hea
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Aug2025 06:19:31.872] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:pliercrafting
+[30Aug2025 06:22:28.541] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:pliercrafting
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:advanced_shaped_crafting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -820,7 +820,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Aug2025 06:19:31.876] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifeanviltfc
+[30Aug2025 06:22:28.546] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:skinningknifeanviltfc
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:anvil'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -849,7 +849,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:anv
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Aug2025 06:19:31.906] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:firepliermold
+[30Aug2025 06:22:28.569] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:firepliermold
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:heating'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -878,9 +878,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:hea
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Aug2025 06:19:31.911] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
-[30Aug2025 06:19:31.911] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
-[30Aug2025 06:19:31.916] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:cleavercrafting
+[30Aug2025 06:22:28.572] [main/INFO] [Spartan Weaponry/]: Empty result tag:"forge:nuggets/aluminum" Skipping...
+[30Aug2025 06:22:28.573] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe spartanweaponry:aluminum_nugget_from_smelting_aluminum_weapons as it's serializer returned null
+[30Aug2025 06:22:28.574] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:cleavercrafting
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:advanced_shaped_crafting'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -909,7 +909,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:adv
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Aug2025 06:19:31.920] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:butcheryjar
+[30Aug2025 06:22:28.576] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:butcheryjar
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:glassworking'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -938,7 +938,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:gla
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Aug2025 06:19:31.926] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:butchersguidejei
+[30Aug2025 06:22:28.588] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:butchersguidejei
 com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23154!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23154!/:?]
@@ -971,7 +971,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Aug2025 06:19:31.949] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:cleaverknapping
+[30Aug2025 06:22:28.597] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe butcher:cleaverknapping
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:knapping'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23149!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1000,79 +1000,81 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[30Aug2025 06:19:31.970] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 13 recipes
-[30Aug2025 06:19:32.058] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
-[30Aug2025 06:19:32.225] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
-[30Aug2025 06:19:32.313] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
-[30Aug2025 06:19:32.330] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
-[30Aug2025 06:19:32.444] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3734 advancements
-[30Aug2025 06:19:32.468] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
-[30Aug2025 06:19:32.481] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[30Aug2025 06:19:35.379] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 8.682112ms
-[30Aug2025 06:19:35.535] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[30Aug2025 06:19:35.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[30Aug2025 06:19:35.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[30Aug2025 06:19:35.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[30Aug2025 06:19:35.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[30Aug2025 06:19:35.904] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[30Aug2025 06:19:36.044] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[30Aug2025 06:19:36.045] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[30Aug2025 06:19:36.046] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[30Aug2025 06:19:36.046] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[30Aug2025 06:19:36.116] [Server thread/INFO] [Puzzles Lib/]: Loading server config for pickupnotifier
-[30Aug2025 06:19:36.118] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for pickupnotifier
-[30Aug2025 06:19:36.120] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for pickupnotifier
-[30Aug2025 06:19:36.392] [Server thread/INFO] [Framework/]: Loading server configs...
-[30Aug2025 06:19:36.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[30Aug2025 06:19:44.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[30Aug2025 06:19:48.769] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[30Aug2025 06:19:52.380] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 06:19:52.537] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 06:19:52.572] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 06:19:52.616] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 06:19:52.620] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 06:19:52.622] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 06:19:52.641] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 06:19:52.663] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 06:19:52.678] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 06:19:52.696] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 06:19:52.717] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 06:19:52.741] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 06:19:52.750] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 06:19:52.753] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 06:19:52.755] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 06:19:52.772] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 06:19:52.913] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 06:19:53.396] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 06:19:53.905] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 06:19:54.450] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 06:19:54.892] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 06:19:55.393] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[30Aug2025 06:19:56.037] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 20%
-[30Aug2025 06:19:56.421] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 11530 ms
-[30Aug2025 06:19:56.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (20.354s)! For help, type "help"
-[30Aug2025 06:19:56.554] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[30Aug2025 06:19:56.635] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[30Aug2025 06:19:56.636] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[30Aug2025 06:20:07.676] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.217.102.85:53753] logged in with entity id 528 at (-1449.1286485611668, 70.0, -330.3744225861928)
-[30Aug2025 06:20:07.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
-[30Aug2025 06:20:08.008] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
-[30Aug2025 06:20:12.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5551ms or 111 ticks behind
-[30Aug2025 06:20:17.451] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.21.34.197:49241] logged in with entity id 737 at (-216.0732947938879, 102.0, 1654.2550163632773)
-[30Aug2025 06:20:17.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
-[30Aug2025 06:20:17.613] [Server thread/INFO] [Jade/]: Syncing config to elikernomamahuev (7e25e690-4f60-3c78-b7bc-fb82071b91d5)
-[30Aug2025 06:20:23.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[30Aug2025 06:20:23.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[30Aug2025 06:20:23.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Server closed
-[30Aug2025 06:20:23.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
-[30Aug2025 06:20:23.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[30Aug2025 06:20:25.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[30Aug2025 06:20:26.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[30Aug2025 06:20:26.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[30Aug2025 06:20:26.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[30Aug2025 06:20:26.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[30Aug2025 06:20:26.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[30Aug2025 06:20:26.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[30Aug2025 06:20:26.281] [Server thread/INFO] [Framework/]: Unloading server configs...
-[30Aug2025 06:20:26.284] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
-[30Aug2025 06:20:26.288] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[30Aug2025 06:22:28.615] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 13 recipes
+[30Aug2025 06:22:28.682] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
+[30Aug2025 06:22:28.863] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[30Aug2025 06:22:28.915] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
+[30Aug2025 06:22:28.934] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[30Aug2025 06:22:29.083] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3734 advancements
+[30Aug2025 06:22:29.102] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
+[30Aug2025 06:22:29.113] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[30Aug2025 06:22:32.020] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 6.226532ms
+[30Aug2025 06:22:32.289] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[30Aug2025 06:22:32.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[30Aug2025 06:22:32.291] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[30Aug2025 06:22:32.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[30Aug2025 06:22:32.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[30Aug2025 06:22:32.535] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[30Aug2025 06:22:32.663] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[30Aug2025 06:22:32.664] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[30Aug2025 06:22:32.665] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[30Aug2025 06:22:32.667] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[30Aug2025 06:22:32.749] [Server thread/INFO] [Puzzles Lib/]: Loading server config for pickupnotifier
+[30Aug2025 06:22:32.751] [Thread-2/INFO] [Puzzles Lib/]: Reloading server config for pickupnotifier
+[30Aug2025 06:22:33.086] [Server thread/INFO] [Framework/]: Loading server configs...
+[30Aug2025 06:22:33.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[30Aug2025 06:22:41.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[30Aug2025 06:22:46.126] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[30Aug2025 06:22:48.885] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Aug2025 06:22:48.886] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Aug2025 06:22:48.888] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Aug2025 06:22:48.890] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Aug2025 06:22:48.893] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Aug2025 06:22:48.896] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Aug2025 06:22:48.900] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Aug2025 06:22:48.901] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Aug2025 06:22:48.905] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Aug2025 06:22:48.908] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Aug2025 06:22:48.910] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Aug2025 06:22:48.914] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Aug2025 06:22:48.917] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Aug2025 06:22:48.920] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Aug2025 06:22:48.924] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Aug2025 06:22:48.928] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Aug2025 06:22:49.317] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Aug2025 06:22:49.818] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Aug2025 06:22:50.317] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[30Aug2025 06:22:50.979] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9664 ms
+[30Aug2025 06:22:50.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (18.283s)! For help, type "help"
+[30Aug2025 06:22:51.054] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[30Aug2025 06:22:51.112] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[30Aug2025 06:22:51.112] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[30Aug2025 06:23:32.567] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.204.20.180:50549] logged in with entity id 527 at (-1452.1989546729465, 70.0, -330.2068404492105)
+[30Aug2025 06:23:32.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
+[30Aug2025 06:23:33.069] [Server thread/INFO] [Jade/]: Syncing config to rexsel (66f48e46-47e6-339c-ac7f-625ad60c0307)
+[30Aug2025 06:23:39.154] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.217.102.85:55265] logged in with entity id 529 at (-1450.0102621185722, 70.0, -329.7215621059013)
+[30Aug2025 06:23:39.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
+[30Aug2025 06:23:39.272] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
+[30Aug2025 06:23:39.339] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6918ms or 138 ticks behind
+[30Aug2025 06:23:45.632] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elikernomamahuev[/127.21.34.197:33699] logged in with entity id 764 at (-216.0732947938879, 102.0, 1654.2550163632773)
+[30Aug2025 06:23:45.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev joined the game
+[30Aug2025 06:23:45.746] [Server thread/INFO] [Jade/]: Syncing config to elikernomamahuev (7e25e690-4f60-3c78-b7bc-fb82071b91d5)
+[30Aug2025 06:23:59.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4865ms or 97 ticks behind
+[30Aug2025 06:24:16.297] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2125ms or 42 ticks behind
+[30Aug2025 06:24:19.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Aug2025 06:24:19.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Aug2025 06:24:20.115] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Server closed
+[30Aug2025 06:24:20.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
+[30Aug2025 06:24:20.180] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elikernomamahuev lost connection: Server closed
+[30Aug2025 06:24:20.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev left the game
+[30Aug2025 06:24:20.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Aug2025 06:24:22.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[30Aug2025 06:24:26.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[30Aug2025 06:24:26.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[30Aug2025 06:24:26.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Aug2025 06:24:26.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Aug2025 06:24:26.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Aug2025 06:24:26.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[30Aug2025 06:24:26.175] [Server thread/INFO] [Framework/]: Unloading server configs...
+[30Aug2025 06:24:26.182] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[30Aug2025 06:24:26.189] [Server thread/INFO] [Framework/]: Finished unloading server configs
