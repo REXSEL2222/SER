@@ -49,6 +49,7 @@
       "minecraft:jagged_peaks": "2025-08-30 03:50:33 +0000",
       "minecraft:cold_ocean": "2025-08-30 04:35:43 +0000",
       "minecraft:forest": "2025-08-26 05:52:33 +0000",
+      "minecraft:jungle": "2025-08-31 03:54:15 +0000",
       "minecraft:windswept_savanna": "2025-08-27 04:56:19 +0000",
       "minecraft:flower_forest": "2025-08-26 05:36:57 +0000",
       "minecraft:meadow": "2025-08-27 05:08:47 +0000",
@@ -7321,6 +7322,42 @@
   "tombstone:recipes/from_decorative_grave": {
     "criteria": {
       "has_ingredient": "2025-08-30 06:52:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-31 03:52:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-31 03:52:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
+    "criteria": {
+      "has_item": "2025-08-31 03:48:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-31 03:52:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-31 03:52:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-31 03:52:47 +0000"
     },
     "done": true
   },
