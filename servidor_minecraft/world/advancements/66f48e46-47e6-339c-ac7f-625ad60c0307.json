@@ -7325,6 +7325,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/fire_stew": {
+    "criteria": {
+      "has_item": "2025-08-31 04:08:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-08-31 03:52:47 +0000"
@@ -7352,6 +7358,30 @@
   "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-08-31 03:52:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/cockatrice_scepter": {
+    "criteria": {
+      "has_item": "2025-08-31 04:03:07 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-08-31 04:06:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-08-31 03:58:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-08-31 03:58:53 +0000"
     },
     "done": true
   },

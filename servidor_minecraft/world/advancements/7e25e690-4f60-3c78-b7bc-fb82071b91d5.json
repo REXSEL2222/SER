@@ -51,6 +51,7 @@
       "minecraft:jungle": "2025-08-26 06:43:44 +0000",
       "minecraft:ocean": "2025-08-26 21:45:44 +0000",
       "minecraft:flower_forest": "2025-08-26 05:41:55 +0000",
+      "minecraft:deep_dark": "2025-08-31 03:59:37 +0000",
       "minecraft:meadow": "2025-08-26 21:57:48 +0000",
       "minecraft:savanna": "2025-08-26 05:57:21 +0000",
       "minecraft:plains": "2025-08-26 05:43:18 +0000"
@@ -395,7 +396,8 @@
       "minecraft:piglin": "2025-08-29 04:54:01 +0000",
       "minecraft:enderman": "2025-08-26 06:50:37 +0000",
       "minecraft:zombie": "2025-08-26 05:44:59 +0000",
-      "minecraft:drowned": "2025-08-26 21:54:08 +0000"
+      "minecraft:drowned": "2025-08-26 21:54:08 +0000",
+      "minecraft:zombie_villager": "2025-08-31 03:58:34 +0000"
     },
     "done": false
   },
@@ -6433,6 +6435,12 @@
   "superbwarfare:recipes/combat/hk_416_smithing": {
     "criteria": {
       "has_hk_416_blueprint": "2025-08-31 03:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-08-31 04:00:38 +0000"
     },
     "done": true
   },
