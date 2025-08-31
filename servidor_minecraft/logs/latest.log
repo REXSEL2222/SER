@@ -1087,3 +1087,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [31Aug2025 03:34:57.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Gave 1 [Enchanting Table] to EMILIOSIFUENTES]
 [31Aug2025 03:35:08.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> prepucio
 [31Aug2025 03:38:18.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Gave 20 [Leather] to EMILIOSIFUENTES]
+[31Aug2025 03:38:29.757] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[31Aug2025 03:42:15.255] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/567, l='ServerLevel[world]', x=-455.51, y=61.00, z=574.14] died, message: 'Unemployed was slain by Zombie'
+[31Aug2025 03:42:23.599] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/566, l='ServerLevel[world]', x=-452.49, y=61.00, z=568.76] died, message: 'Unemployed was slain by Zombie'
+[31Aug2025 03:43:56.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EMILIOSIFUENTES has made the advancement [Enchanter]
+[31Aug2025 03:47:41.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> y pa fumar?

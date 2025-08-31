@@ -6286,6 +6286,12 @@
     },
     "done": true
   },
+  "superbwarfare:recipes/misc/hk_416_blueprint": {
+    "criteria": {
+      "has_hk_416_blueprint": "2025-08-31 03:42:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-31 03:24:52 +0000"
@@ -6295,6 +6301,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-31 03:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-08-31 03:38:46 +0000"
     },
     "done": true
   },
@@ -6346,6 +6358,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-08-31 03:38:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-31 03:24:43 +0000"
@@ -6361,6 +6379,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-31 03:24:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-08-31 03:38:46 +0000"
     },
     "done": true
   },
@@ -6388,6 +6412,12 @@
     },
     "done": true
   },
+  "superbwarfare:recipes/combat/hk_416_smithing": {
+    "criteria": {
+      "has_hk_416_blueprint": "2025-08-31 03:42:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-08-31 03:24:43 +0000"
@@ -6397,6 +6427,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-08-31 03:24:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-08-31 03:35:03 +0000"
     },
     "done": true
   },
