@@ -39,12 +39,14 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-08-27 04:14:51 +0000",
       "minecraft:cherry_grove": "2025-08-26 21:51:33 +0000",
+      "minecraft:bamboo_jungle": "2025-08-31 04:26:57 +0000",
       "minecraft:savanna_plateau": "2025-08-30 03:17:52 +0000",
       "minecraft:beach": "2025-08-27 06:01:00 +0000",
       "minecraft:sparse_jungle": "2025-08-26 06:25:33 +0000",
       "minecraft:river": "2025-08-26 05:52:46 +0000",
       "minecraft:lukewarm_ocean": "2025-08-30 06:01:08 +0000",
       "minecraft:stony_shore": "2025-08-26 05:46:54 +0000",
+      "minecraft:dripstone_caves": "2025-08-31 04:19:51 +0000",
       "minecraft:grove": "2025-08-27 04:14:24 +0000",
       "minecraft:jagged_peaks": "2025-08-27 04:01:21 +0000",
       "minecraft:forest": "2025-08-26 05:44:10 +0000",
@@ -6436,6 +6438,24 @@
   "superbwarfare:recipes/combat/hk_416_smithing": {
     "criteria": {
       "has_hk_416_blueprint": "2025-08-31 03:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-08-31 04:25:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-08-31 04:27:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-08-31 04:18:51 +0000"
     },
     "done": true
   },
