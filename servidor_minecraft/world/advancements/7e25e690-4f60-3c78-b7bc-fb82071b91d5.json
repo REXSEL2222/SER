@@ -6202,27 +6202,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2025-08-30 06:27:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2025-08-30 06:31:01 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
-    "criteria": {
-      "has_dragonscales_copper": "2025-08-30 07:03:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2025-08-30 06:31:01 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/consume_soul": {
-    "criteria": {
-      "coded_trigger": "2025-08-30 06:27:45 +0000"
     },
     "done": true
   },
@@ -6238,6 +6232,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
+    "criteria": {
+      "has_dragonscales_copper": "2025-08-30 07:03:49 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_copper_helmet": {
     "criteria": {
       "has_item": "2025-08-30 07:03:49 +0000"
@@ -6245,6 +6245,18 @@
     "done": true
   },
   "iceandfire:recipes/combat/armor_copper_boots": {
+    "criteria": {
+      "has_item": "2025-08-30 07:03:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_chestplate": {
+    "criteria": {
+      "has_item": "2025-08-30 07:03:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_leggings": {
     "criteria": {
       "has_item": "2025-08-30 07:03:49 +0000"
     },
@@ -6259,18 +6271,6 @@
   "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
     "criteria": {
       "has_item": "2025-08-30 07:04:41 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_copper_chestplate": {
-    "criteria": {
-      "has_item": "2025-08-30 07:03:49 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_copper_leggings": {
-    "criteria": {
-      "has_item": "2025-08-30 07:03:49 +0000"
     },
     "done": true
   },
