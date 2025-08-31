@@ -5448,5 +5448,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-08-31 03:26:14 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/redstone/vehicle_assembling_table": {
+    "criteria": {
+      "has_smithing_table": "2025-08-31 03:26:38 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/empty_perk": {
+    "criteria": {
+      "has_paper": "2025-08-31 03:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-08-31 03:26:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
