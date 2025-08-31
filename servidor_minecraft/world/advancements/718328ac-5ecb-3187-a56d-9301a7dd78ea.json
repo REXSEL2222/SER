@@ -5449,6 +5449,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-08-31 03:26:14 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/empty_perk": {
+    "criteria": {
+      "has_paper": "2025-08-31 03:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-08-31 03:26:14 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/redstone/vehicle_assembling_table": {
+    "criteria": {
+      "has_smithing_table": "2025-08-31 03:26:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-08-31 03:40:59 +0000"
@@ -5467,27 +5491,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-08-31 03:26:14 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-08-31 03:40:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-08-31 03:43:56 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/redstone/vehicle_assembling_table": {
-    "criteria": {
-      "has_smithing_table": "2025-08-31 03:26:38 +0000"
     },
     "done": true
   },
@@ -5503,21 +5509,15 @@
     },
     "done": true
   },
-  "superbwarfare:recipes/misc/empty_perk": {
-    "criteria": {
-      "has_paper": "2025-08-31 03:26:14 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/reinforced_lectern": {
     "criteria": {
       "has_bookshelf": "2025-08-31 03:41:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "has_paper": "2025-08-31 03:26:14 +0000"
+      "enchanted_item": "2025-08-31 03:43:56 +0000"
     },
     "done": true
   },
