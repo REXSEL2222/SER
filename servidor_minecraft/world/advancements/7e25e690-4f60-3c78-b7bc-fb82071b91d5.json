@@ -39,6 +39,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-08-27 04:14:51 +0000",
       "minecraft:cherry_grove": "2025-08-26 21:51:33 +0000",
+      "minecraft:sunflower_plains": "2025-08-31 05:01:21 +0000",
       "minecraft:bamboo_jungle": "2025-08-31 04:26:57 +0000",
       "minecraft:savanna_plateau": "2025-08-30 03:17:52 +0000",
       "minecraft:beach": "2025-08-27 06:01:00 +0000",
@@ -6486,6 +6487,30 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2025-08-31 04:27:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2025-08-31 04:43:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-08-31 04:51:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-08-31 04:51:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-08-31 04:56:58 +0000"
     },
     "done": true
   },
