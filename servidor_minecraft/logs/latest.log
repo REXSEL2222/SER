@@ -3052,3 +3052,24 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'tfc:kna
 [04Sep2025 23:04:37.806] [Server thread/INFO] [tombstone/]: The player Eduardo171 has successfully been saved
 [04Sep2025 23:04:41.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has made the advancement [The Most Useful Key]
 [04Sep2025 23:04:48.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 has reached the goal [A Fast Comeback]
+[04Sep2025 23:05:01.810] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Eduardo171 lost connection: Disconnected
+[04Sep2025 23:05:01.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 left the game
+[04Sep2025 23:05:18.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> tenia muchos niveles
+[04Sep2025 23:05:19.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> dea
+[04Sep2025 23:05:23.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> se le fue la luz creo
+[04Sep2025 23:06:31.059] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: rexsel lost connection: Disconnected
+[04Sep2025 23:06:31.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel left the game
+[04Sep2025 23:19:35.217] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Eduardo171[/127.217.102.85:54187] logged in with entity id 29114 at (-1440.1280395014148, 67.0, -365.6168648010561)
+[04Sep2025 23:19:35.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Eduardo171 joined the game
+[04Sep2025 23:19:35.294] [Server thread/INFO] [Jade/]: Syncing config to Eduardo171 (7db0c3cc-2841-3d40-8602-c97ababfe757)
+[04Sep2025 23:22:17.627] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: rexsel[/127.204.20.180:54951] logged in with entity id 30375 at (-1453.9407444577644, 74.5625, -338.7993324112832)
+[04Sep2025 23:22:17.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: rexsel joined the game
+[04Sep2025 23:22:17.865] [Server thread/INFO] [Jade/]: Syncing config to rexsel (66f48e46-47e6-339c-ac7f-625ad60c0307)
+[04Sep2025 23:24:38.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> yo lo hago
+[04Sep2025 23:25:10.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> si
+[04Sep2025 23:25:11.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elikernomamahuev> porfa
+[04Sep2025 23:26:38.479] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player elikernomamahuev just tried to change non-editable sign
+[04Sep2025 23:31:40.785] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[04Sep2025 23:33:12.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [rexsel: Teleported rexsel to Eduardo171]
+[04Sep2025 23:33:28.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Black or White]
+[04Sep2025 23:33:39.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elikernomamahuev has made the advancement [Not of Chocolate]

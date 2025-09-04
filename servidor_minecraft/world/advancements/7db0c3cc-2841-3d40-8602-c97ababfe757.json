@@ -1478,6 +1478,7 @@
       "potato": "2025-08-26 06:02:19 +0000",
       "nether_wart": "2025-08-28 06:38:12 +0000",
       "wheat": "2025-08-26 06:01:33 +0000",
+      "melon": "2025-09-04 23:31:30 +0000",
       "carrot": "2025-08-26 05:58:50 +0000"
     },
     "done": false
@@ -5999,6 +6000,54 @@
   "superbwarfare:recipes/misc/speedboat": {
     "criteria": {
       "has_m_2_hb": "2025-09-04 23:02:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-09-04 23:04:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-09-04 23:04:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
+    "criteria": {
+      "has_pitcher_plant": "2025-09-04 23:29:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-09-04 23:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_candle": {
+    "criteria": {
+      "has_cyan_dye": "2025-09-04 23:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-09-04 23:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_cyan_dye": "2025-09-04 23:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_cyan_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-09-04 23:30:04 +0000"
     },
     "done": true
   },
