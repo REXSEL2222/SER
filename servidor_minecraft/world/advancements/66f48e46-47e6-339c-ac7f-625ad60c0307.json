@@ -7517,6 +7517,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/combat/simple_pole": {
+    "criteria": {
+      "has_handle": "2025-09-04 22:34:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/brown_lens": {
     "criteria": {
       "has_glass_pane": "2025-09-04 22:21:37 +0000"
