@@ -1474,6 +1474,7 @@
       "onion": "2025-08-26 06:02:02 +0000",
       "tomato": "2025-08-26 06:01:25 +0000",
       "beetroot": "2025-08-26 06:02:08 +0000",
+      "brown_mushroom": "2025-09-04 23:40:16 +0000",
       "sugar_cane": "2025-08-26 06:44:45 +0000",
       "potato": "2025-08-26 06:02:19 +0000",
       "nether_wart": "2025-08-28 06:38:12 +0000",
@@ -1493,6 +1494,7 @@
       "minecraft:piglin": "2025-08-27 05:59:35 +0000",
       "minecraft:enderman": "2025-08-27 04:05:16 +0000",
       "minecraft:zombie": "2025-08-26 05:59:15 +0000",
+      "minecraft:drowned": "2025-09-04 23:36:08 +0000",
       "minecraft:zombie_villager": "2025-08-26 20:50:31 +0000"
     },
     "done": false
@@ -6015,6 +6017,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-04 23:40:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-04 23:40:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
     "criteria": {
       "has_pitcher_plant": "2025-09-04 23:29:49 +0000"
@@ -6033,6 +6047,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-09-04 23:40:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_cyan_wool": {
     "criteria": {
       "has_needed_dye": "2025-09-04 23:30:04 +0000"
@@ -6048,6 +6068,12 @@
   "minecraft:recipes/building_blocks/dye_cyan_carpet": {
     "criteria": {
       "has_needed_dye": "2025-09-04 23:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-09-04 23:40:11 +0000"
     },
     "done": true
   },
