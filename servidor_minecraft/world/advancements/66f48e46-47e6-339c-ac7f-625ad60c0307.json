@@ -7494,21 +7494,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/lime_lens": {
-    "criteria": {
-      "has_glass_pane": "2025-09-04 22:21:37 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/transportation/birch_security_sea_boat": {
     "criteria": {
       "has_keypad_chest": "2025-09-04 22:20:15 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/cyan_lens": {
-    "criteria": {
-      "has_glass_pane": "2025-09-04 22:21:37 +0000"
     },
     "done": true
   },
@@ -7518,9 +7506,57 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/combat/simple_pole": {
+  "securitycraft:recipes/transportation/bamboo_security_sea_raft": {
     "criteria": {
-      "has_handle": "2025-09-04 22:34:18 +0000"
+      "has_keypad_chest": "2025-09-04 22:20:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/cherry_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-09-04 22:20:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/jungle_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-09-04 22:20:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/spruce_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-09-04 22:20:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/dark_oak_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-09-04 22:20:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/acacia_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-09-04 22:20:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/oak_security_sea_boat": {
+    "criteria": {
+      "has_keypad_chest": "2025-09-04 22:20:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/lime_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-09-04 22:21:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/cyan_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-09-04 22:21:37 +0000"
     },
     "done": true
   },
@@ -7536,33 +7572,15 @@
     },
     "done": true
   },
-  "spartanweaponry:spear": {
-    "criteria": {
-      "has_spear": "2025-09-04 22:49:02 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/blue_lens": {
     "criteria": {
       "has_glass_pane": "2025-09-04 22:21:37 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/transportation/bamboo_security_sea_raft": {
-    "criteria": {
-      "has_keypad_chest": "2025-09-04 22:20:15 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/lens": {
     "criteria": {
       "has_glass_pane": "2025-09-04 22:21:37 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/transportation/cherry_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2025-09-04 22:20:15 +0000"
     },
     "done": true
   },
@@ -7590,21 +7608,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/transportation/jungle_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2025-09-04 22:20:15 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/orange_lens": {
     "criteria": {
       "has_glass_pane": "2025-09-04 22:21:37 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/transportation/spruce_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2025-09-04 22:20:15 +0000"
     },
     "done": true
   },
@@ -7620,27 +7626,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/transportation/dark_oak_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2025-09-04 22:20:15 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/yellow_lens": {
     "criteria": {
       "has_glass_pane": "2025-09-04 22:21:37 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/transportation/acacia_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2025-09-04 22:20:15 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/transportation/oak_security_sea_boat": {
-    "criteria": {
-      "has_keypad_chest": "2025-09-04 22:20:15 +0000"
     },
     "done": true
   },
@@ -7659,6 +7647,18 @@
   "securitycraft:recipes/misc/black_lens": {
     "criteria": {
       "has_glass_pane": "2025-09-04 22:21:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/simple_pole": {
+    "criteria": {
+      "has_handle": "2025-09-04 22:34:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:spear": {
+    "criteria": {
+      "has_spear": "2025-09-04 22:49:02 +0000"
     },
     "done": true
   },
