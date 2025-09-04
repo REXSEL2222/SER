@@ -6514,6 +6514,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-04 23:46:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_birch_sign_item": {
     "criteria": {
       "has_sign": "2025-09-04 22:38:39 +0000"
@@ -6625,6 +6631,12 @@
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_yellow_dye": "2025-09-04 23:07:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2025-09-04 23:46:37 +0000"
     },
     "done": true
   },
@@ -6778,6 +6790,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-09-04 23:46:40 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/frost_troll_leather_helmet": {
     "criteria": {
       "has_item": "2025-09-04 23:38:10 +0000"
@@ -6874,6 +6892,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-09-04 23:46:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_candle": {
     "criteria": {
       "has_black_dye": "2025-09-04 23:21:57 +0000"
@@ -6889,6 +6913,12 @@
   "tombstone:adventure/create_strange_tablet": {
     "criteria": {
       "has_strange_tablet": "2025-09-04 23:33:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2025-09-04 23:46:37 +0000"
     },
     "done": true
   },
