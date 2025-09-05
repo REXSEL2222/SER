@@ -7687,6 +7687,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/chain_sticky": {
+    "criteria": {
+      "has_item": "2025-09-05 00:00:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-09-04 23:42:30 +0000"
@@ -7696,6 +7702,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2025-09-04 23:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-09-04 23:54:26 +0000"
     },
     "done": true
   },
