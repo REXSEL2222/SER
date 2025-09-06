@@ -7717,27 +7717,27 @@
     },
     "done": true
   },
-  "tombstone:adventure/consume_soul": {
-    "criteria": {
-      "coded_trigger": "2025-09-05 00:32:13 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/use_recall": {
     "criteria": {
       "coded_trigger": "2025-09-05 00:24:22 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/blood_sprayer": {
-    "criteria": {
-      "blood_sprayer": "2025-09-05 00:33:10 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/create_strange_tablet": {
     "criteria": {
       "has_strange_tablet": "2025-09-05 00:32:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2025-09-05 00:32:13 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/blood_sprayer": {
+    "criteria": {
+      "blood_sprayer": "2025-09-05 00:33:10 +0000"
     },
     "done": true
   },
