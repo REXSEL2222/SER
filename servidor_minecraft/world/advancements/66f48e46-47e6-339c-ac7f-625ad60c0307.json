@@ -4241,6 +4241,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:sheep": "2025-09-06 01:42:43 +0000",
       "minecraft:chicken": "2025-08-27 04:10:53 +0000"
     },
     "done": false
@@ -6567,7 +6568,8 @@
   },
   "spartanweaponry:collect_heads": {
     "criteria": {
-      "wither_skeleton_skull": "2025-08-29 05:19:18 +0000"
+      "wither_skeleton_skull": "2025-08-29 05:19:18 +0000",
+      "piglin_head": "2025-09-06 01:39:13 +0000"
     },
     "done": false
   },
@@ -7738,6 +7740,42 @@
   "alexsmobs:alexsmobs/blood_sprayer": {
     "criteria": {
       "blood_sprayer": "2025-09-05 00:33:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
+    "criteria": {
+      "has_item": "2025-09-06 01:30:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-09-06 02:38:04 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/marlin_smithing": {
+    "criteria": {
+      "has_marlin_blueprint": "2025-09-06 02:38:04 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/marlin_blueprint": {
+    "criteria": {
+      "has_marlin_blueprint": "2025-09-06 02:38:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-09-06 02:18:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-09-06 02:02:10 +0000"
     },
     "done": true
   },
