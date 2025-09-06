@@ -37,6 +37,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-09-06 03:35:05 +0000",
       "minecraft:sunflower_plains": "2025-08-28 06:53:52 +0000",
       "minecraft:birch_forest": "2025-08-30 04:24:04 +0000",
       "minecraft:savanna_plateau": "2025-08-26 21:00:30 +0000",
@@ -45,6 +46,7 @@
       "minecraft:river": "2025-08-26 05:54:32 +0000",
       "minecraft:lukewarm_ocean": "2025-08-26 20:46:46 +0000",
       "minecraft:stony_shore": "2025-08-26 20:49:11 +0000",
+      "minecraft:dripstone_caves": "2025-09-06 03:12:48 +0000",
       "minecraft:grove": "2025-08-27 05:08:54 +0000",
       "minecraft:jagged_peaks": "2025-08-30 03:50:33 +0000",
       "minecraft:cold_ocean": "2025-08-30 04:35:43 +0000",
@@ -7776,6 +7778,126 @@
   "superbwarfare:recipes/misc/marlin_blueprint": {
     "criteria": {
       "has_marlin_blueprint": "2025-09-06 02:38:04 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage": {
+    "criteria": {
+      "killed_by": "2025-09-06 04:02:54 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed": "2025-09-06 04:18:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-09-06 04:22:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-09-06 03:41:46 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/void_worm_split": {
+    "criteria": {
+      "ex": "2025-09-06 04:26:44 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/artillery_indicator_clear": {
+    "criteria": {
+      "has_artillery_indicator": "2025-09-06 03:37:54 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/farseer": {
+    "criteria": {
+      "killed_by": "2025-09-06 04:24:02 +0000"
+    },
+    "done": true
+  },
+  "butcher:pillagersdisguise": {
+    "criteria": {
+      "pillagersdisguise_0": "2025-09-06 03:36:06 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/spectre": {
+    "criteria": {
+      "killed_by": "2025-09-06 03:59:21 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2025-09-06 04:37:25 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2025-09-06 04:16:37 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/enclave": {
+    "criteria": {
+      "0": "2025-09-06 03:40:50 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/mysterious_worm": {
+    "criteria": {
+      "mysterious_worm": "2025-09-06 04:26:20 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/void_worm_kill": {
+    "criteria": {
+      "ex": "2025-09-06 04:26:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sopa_de_macaco": {
+    "criteria": {
+      "sopa_de_macaco": "2025-09-06 04:33:32 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/endolocator": {
+    "criteria": {
+      "endolocator": "2025-09-06 03:35:22 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by_head": "2025-09-06 04:00:15 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/best_friend": {
+    "criteria": {
+      "0": "2025-09-06 03:38:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_ancient_tablet": {
+    "criteria": {
+      "has_ancient_tablet": "2025-09-06 03:32:30 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/warped_mosco_kill": {
+    "criteria": {
+      "killed": "2025-09-06 03:56:43 +0000"
     },
     "done": true
   },
