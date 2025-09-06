@@ -5534,18 +5534,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/gold_hippogryph_armor": {
-    "criteria": {
-      "has_item": "2025-08-31 05:17:25 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:main/hammer": {
-    "criteria": {
-      "0": "2025-08-31 05:13:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-08-31 05:07:33 +0000"
@@ -5555,6 +5543,18 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-08-31 05:07:33 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/hammer": {
+    "criteria": {
+      "0": "2025-08-31 05:13:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-08-31 05:17:25 +0000"
     },
     "done": true
   },
