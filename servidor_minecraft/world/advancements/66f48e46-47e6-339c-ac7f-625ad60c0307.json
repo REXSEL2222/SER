@@ -7749,6 +7749,18 @@
     },
     "done": true
   },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-09-06 02:02:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-09-06 02:18:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2025-09-06 02:38:04 +0000"
@@ -7764,18 +7776,6 @@
   "superbwarfare:recipes/misc/marlin_blueprint": {
     "criteria": {
       "has_marlin_blueprint": "2025-09-06 02:38:04 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/universal_owner_changer": {
-    "criteria": {
-      "has_name_tag": "2025-09-06 02:18:08 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/enchant_grave_key": {
-    "criteria": {
-      "has_upgraded_grave_key": "2025-09-06 02:02:10 +0000"
     },
     "done": true
   },
