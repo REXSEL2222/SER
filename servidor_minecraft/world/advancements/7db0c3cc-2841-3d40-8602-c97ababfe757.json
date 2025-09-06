@@ -6083,15 +6083,21 @@
     },
     "done": true
   },
-  "superbwarfare:recipes/misc/m_4_blueprint": {
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
     "criteria": {
-      "has_m_4_blueprint": "2025-09-06 02:34:52 +0000"
+      "has_stack_upgrade_tier_1": "2025-09-06 02:04:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+  "alexsmobs:alexsmobs/straddler": {
     "criteria": {
-      "has_ancient_debris": "2025-09-06 02:41:16 +0000"
+      "killed_by": "2025-09-06 02:29:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-09-06 02:31:26 +0000"
     },
     "done": true
   },
@@ -6101,9 +6107,87 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
+  "superbwarfare:recipes/misc/javelin_blueprint": {
     "criteria": {
-      "blaze_rod": "2025-09-06 02:53:54 +0000"
+      "has_javelin_blueprint": "2025-09-06 02:34:41 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:main/legendary_blueprint": {
+    "criteria": {
+      "0": "2025-09-06 02:34:41 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/m_4_blueprint": {
+    "criteria": {
+      "has_m_4_blueprint": "2025-09-06 02:34:52 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/m_4_smithing": {
+    "criteria": {
+      "has_m_4_blueprint": "2025-09-06 02:34:52 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/trachelium_smithing": {
+    "criteria": {
+      "has_trachelium_blueprint": "2025-09-06 02:39:48 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/trachelium_blueprint": {
+    "criteria": {
+      "has_trachelium_blueprint": "2025-09-06 02:39:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-09-06 02:39:50 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/netherite_trigger": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-09-06 02:39:50 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/netherite_spring": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-09-06 02:39:50 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/netherite_action": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-09-06 02:39:50 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/netherite_barrel": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-09-06 02:39:50 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/combat/k_98_smithing": {
+    "criteria": {
+      "has_k_98_blueprint": "2025-09-06 02:41:14 +0000"
+    },
+    "done": true
+  },
+  "superbwarfare:recipes/misc/k_98_blueprint": {
+    "criteria": {
+      "has_k_98_blueprint": "2025-09-06 02:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-09-06 02:41:16 +0000"
     },
     "done": true
   },
@@ -6113,9 +6197,21 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+  "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
-      "has_stack_upgrade_tier_1": "2025-09-06 02:04:53 +0000"
+      "has_ancient_debris": "2025-09-06 02:41:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-09-06 02:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-09-06 02:50:26 +0000"
     },
     "done": true
   },
@@ -6131,93 +6227,15 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/straddler": {
-    "criteria": {
-      "killed_by": "2025-09-06 02:29:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_planks": {
-    "criteria": {
-      "has_logs": "2025-09-06 02:50:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/warped_fence": {
     "criteria": {
       "has_planks": "2025-09-06 02:50:45 +0000"
     },
     "done": true
   },
-  "superbwarfare:recipes/combat/k_98_smithing": {
-    "criteria": {
-      "has_k_98_blueprint": "2025-09-06 02:41:14 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/javelin_blueprint": {
-    "criteria": {
-      "has_javelin_blueprint": "2025-09-06 02:34:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2025-09-06 02:52:21 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/combat/m_4_smithing": {
-    "criteria": {
-      "has_m_4_blueprint": "2025-09-06 02:34:52 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/k_98_blueprint": {
-    "criteria": {
-      "has_k_98_blueprint": "2025-09-06 02:41:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-09-06 02:39:50 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/combat/trachelium_smithing": {
-    "criteria": {
-      "has_trachelium_blueprint": "2025-09-06 02:39:48 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/netherite_trigger": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-09-06 02:39:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/warped_fence_gate": {
     "criteria": {
       "has_planks": "2025-09-06 02:50:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2025-09-06 02:41:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_hyphae": {
-    "criteria": {
-      "has_log": "2025-09-06 02:50:26 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_familiar_receptacle": {
-    "criteria": {
-      "has_receptacle_of_familiar": "2025-09-06 02:31:26 +0000"
     },
     "done": true
   },
@@ -6245,39 +6263,21 @@
     },
     "done": true
   },
-  "superbwarfare:recipes/misc/netherite_spring": {
-    "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-09-06 02:39:50 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:recipes/misc/trachelium_blueprint": {
-    "criteria": {
-      "has_trachelium_blueprint": "2025-09-06 02:39:48 +0000"
-    },
-    "done": true
-  },
-  "superbwarfare:main/legendary_blueprint": {
-    "criteria": {
-      "0": "2025-09-06 02:34:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/warped_slab": {
     "criteria": {
       "has_planks": "2025-09-06 02:50:45 +0000"
     },
     "done": true
   },
-  "superbwarfare:recipes/misc/netherite_action": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-09-06 02:39:50 +0000"
+      "fortress": "2025-09-06 02:52:21 +0000"
     },
     "done": true
   },
-  "superbwarfare:recipes/misc/netherite_barrel": {
+  "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
-      "has_netherite_upgrade_smithing_template": "2025-09-06 02:39:50 +0000"
+      "blaze_rod": "2025-09-06 02:53:54 +0000"
     },
     "done": true
   },
